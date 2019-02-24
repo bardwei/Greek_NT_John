@@ -36,4 +36,4 @@ for (w <- badWords) {
 
 val badWordPercent = badWords.size.toDouble / uniqueWords.size.toDouble * 100
 
-println(s"\n\n-------\nThere are ${badWordPercent} percentage of misspelled unique words in your document.\n-------\n")
+println(s"\n\n-------\n ${badWordPercent} percent of words in your document are .\n-------\n")
