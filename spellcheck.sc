@@ -33,3 +33,7 @@ val badWords:Vector[String] = uniqueWords.filter( w => {
 for (w <- badWords) {
   println(w)
 }
+
+val badWordPercent = badWords.size.toDouble / uniqueWords.size.toDouble * 100
+
+println(s"\n\n-------\nThere are ${badWordPercent} percentage of misspelled unique words in your document.\n-------\n")

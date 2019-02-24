@@ -1,14 +1,6 @@
 import scala.io.Source
 import edu.holycross.shot.cite
 
-// Fun with Collections
-
-/*
-val myList = List("a","b","c")
-val myArray = Array("a","b","c")
-val myVector = Vector("a","b","c")*/
-
-
 
 
 val filepath:String = "/vagrant/NT_John/NT_RVR_1858.txt"
@@ -30,18 +22,6 @@ val uniqueWords:Vector[String] = wordHisto.map(_._1)
 
 println(s"\n\n-------\nThere are ${wordHisto.size} unique words.\n------\n")
 
-/*for( wh <- wordHisto) println(s"${wh._1} = ${wh._2}")
-
-val maxNum:Int = wordHisto.head._2
-val divisor:Int = maxNum / 75
-for ( wh <- wordHisto) {
-  val stars:Int = wh._2 / divisor
-  if (stars > 0 ) {
-  println()
-  print(wh._1.padTo(20, " ").mkString(""))
-  for (x <- 1 to stars) print("*")
-}
-}*/
 
 /*how to compare percentage*/
 println()
@@ -54,11 +34,6 @@ println(s"\n\n-------\nThere are ${uniquePrecent} percentage of unique words in 
 /*Vector: [String, Int] -> Vector:String
   wordHisto.map(_._1)*/
 
-/*val romanNum:Map[Int, String] = Map( 1 -> "I", 2 -> "II", 3 -> "III", 4 -> "IV", 5 -> "V", 6 -> "VI", 7 -> "VII", 8 -> "VIII", 9 -> "IX", 10 -> "X", 11 -> "XI", 12 -> "XII", 13 -> "XIII", 14 -> "XIV", 15 -> "XV", 16 -> "XVI", 17 -> "XVII", 18 -> "XVIII", 19 -> "XIX", 20 -> "XX")
-
-
-val testInt1 = 13
-println(s"""${testInt1} = XIII: ${romanNum(13) == "XIII"}""")*/
 
 /* Spell Check! */
 val dictpath:String = "/vagrant/NT_John/words.txt"
