@@ -64,3 +64,11 @@ val ng:Vector[(String, Int)] = madeVec.map(mv => {
 for (n <- ng) {
   println(s""" "${n._1}" occurs ${n._2}""")
 }
+
+// Wrap a thing in a function
+def times2(i:Int):Int = {
+  val iTwice:Int = i * 2
+  iTwice
+}
+
+// https://github.com/cite-architecture/ohco2/blob/master/shared/src/main/scala/edu/holycross/shot/ohco2/Corpus.scala
