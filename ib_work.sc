@@ -8,7 +8,7 @@ val myBook:Vector[String] = Source.fromFile(filepath).getLines.toVector.filter(_
 
 val wordVec:Vector[String] = {
   val bigString:String = myBook.mkString(" ")
-  val noPunc:String = bigString.replaceAll("""[\[\]¿¡,.?;:!"]""","").replaceAll(" +", " ")
+  val noPunc:String = bigString.replaceAll("""[\[\]¿¡,.?;:!"[0-9]]""","").replaceAll(" +", " ")
   val tokenized:Vector[String] = noPunc.split(" ").toVector.filter( _.size > 0)
   tokenized
 }
