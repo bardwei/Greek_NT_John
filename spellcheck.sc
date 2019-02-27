@@ -26,8 +26,11 @@ val dictpath:String = "/vagrant/NT_John/words.txt"
 val lexEntries:Vector[String] = Source.fromFile(dictpath).getLines.toVector.filter(_.size > 0)
 
 val badWords:Vector[String] = uniqueWords.filter( w => {
-  lexEntries.contains(w.toLowerCase) == false &
-  lexEntries.contains(w)
+  val lcOkay:Boolean = lexEntries.contains(w.toLowerCase)
+  val regOkay:Boolean = lexEntries.contains(w)
+  val okay:Boolean = (lcOkay | regOkay )
+  // val specialOkay:Boolean = ianLexEntries.contains(w)
+  okay != true
 })
 
 for (w <- badWords) {
@@ -36,4 +39,4 @@ for (w <- badWords) {
 
 val badWordPercent = badWords.size.toDouble / uniqueWords.size.toDouble * 100
 
-println(s"\n\n-------\n ${badWordPercent} percent of words in your document are .\n-------\n")
+println(s"\n\n-------\n ${badWordPercent} percent of words in your document are mispelled.\n-------\n")
