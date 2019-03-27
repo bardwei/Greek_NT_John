@@ -1,0 +1,879 @@
+urn:cts:greekLit:tlg0031.tlg004.reina:1.1#EN el principio [ya] era la Palabra: y la Palabra era acerca de Dios, y Dios era la Palabra.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.2#Esta era en el principio acerca de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.3#Todas las cosas por esta fueron hechas; y sin ella nada de lo que es hecho, fué hecho.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.4#En ella estaba la vida, y la vida era la luz de los hombres.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.5#Y la luz en las tinieblas resplandece: mas las tinieblas no la comprendieron.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.6#FUÉ un hombre enviado de Dios, el cual se llamaba Juan.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.7#Este vino por testimonio, para que diese testimonio de la luz, para que todos creyesen por él.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.8#El no era la luz: sino para que diese testimonio de la luz.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.9#[Aquella Palabra] era la luz verdadera, que alumbra á todo hombre, que viene en este mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.10#En el mundo estaba, y el mundo fué hecho por él, y el mundo no le conoció.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.11#A lo [que era] suyo vino; y los suyos no le recibieron.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.12#Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:
+urn:cts:greekLit:tlg0031.tlg004.reina:1.13#los cuales no son engendrados de sangres, ni de voluntad de carne, ni de voluntad de varon, mas de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.14#Y aquella Palabra fué hecha carne, y habitó entre nosotros; y vimos su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.15#Juan dió testimonio de él, y clamó, diciendo: Este es del que [yo] decia: El que viene tras mí, es antes de mí: porque es primero que yo.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.16#Y de su plenitud tomamos todos, y gracia por gracia.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.17#Porque la ley por Moisés fué dada: mas la gracia y la verdad por Jesu Cristo fué hecha.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.18#A Moisés nadie le vió jamás: el unigénito Hijo que está en el seno del Padre, él [nos le] declaró.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.19#Y ESTE es el testimonio de Juan, cuando los Judíos enviaron de Jerusalem sacerdotes y Levitas, que le preguntasen: ¿Tú, quién eres?
+urn:cts:greekLit:tlg0031.tlg004.reina:1.20#Y confesó, y no negó: confesó que él no era el Cristo.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.21#Y le preguntaron: ¿Qué pues? ¿eres tú Elías? Dijo: No soy. ¿Eres tú profeta? Y respondió: No.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.22#Dijéronle pues: ¿Quién eres? para que demos respuesta á los que nos enviaron: ¿qué dices de tí mismo?
+urn:cts:greekLit:tlg0031.tlg004.reina:1.23#Dijo: Yo, voz del que clama en el desierto: Enderezad el camino del Señor, como dijo Isaías profeta.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.24#Y los que habian sido enviados eran de los Fariséos.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.25#Y preguntáronle, y le dijeron: ¿Por qué pues bautizas, si tú no eres el Cristo, ni Elías, ni profeta?
+urn:cts:greekLit:tlg0031.tlg004.reina:1.26#Y Juan les respondió, diciendo: Yo bautizo con agua: mas en medio de vosotros ha estado, quien vosotros no conoceis:
+urn:cts:greekLit:tlg0031.tlg004.reina:1.27#este es el que ha de venir tras mí, el cual es antes de mí, del cual yo no soy digno de desatar la correa del zapato.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.28#Estas cosas acontecieron en Bethábara de la otra parte del Jordan, donde Juan bautizaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.29#El siguiente dia ve Juan á Jesus que venia á él, y dice: Hé aquí, el Cordero de Dios, que quita el pecado del mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.30#Este es del que dije: Tras mí viene un varon, el cual es antes de mí: porque era primero que yo.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.31#Y yo no le conocia: mas para que fuese manifestado á Israél, por eso vine yo bautizando con agua.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.32#Y Juan dió testimonio, diciendo: Que ví al Espíritu que descendia del cielo como paloma, y reposó sobre él.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.33#Y yo no le conocia: mas el que me envió á bautizar con agua, aquel me dijo: Sobre aquel que vieres descender el Espíritu, y que reposa sobre él, este es el que bautiza con Espíritu Santo:
+urn:cts:greekLit:tlg0031.tlg004.reina:1.34#y yo ví, y he dado testimonio, que este es el Hijo de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.35#El siguiente dia otra vez estaba Juan, y dos de sus discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.36#Y mirando á Jesus que andaba [por allí,] dijo: Hé aquí, el Cordero de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.37#Y oyéronle los dos discípulos hablar, y siguieron á Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.38#Y volviéndose Jesus, y viéndolos seguirle, díceles: ¿Qué buscais? Y ellos le dijeron: Rabbí, que declarado, quiere decir, Maestro, ¿dónde moras?
+urn:cts:greekLit:tlg0031.tlg004.reina:1.39#Díceles: Venid, y ved. Vinieron, y vieron donde moraba: y quedáronse con él aquel dia: porque era como la hora de las diez.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.40#Era Andres, el hermano de Simon Pedro, uno de los dos que habian oido de Juan, y le habian seguido.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.41#Este halló primero á su hermano Simon, y le dijo: Hemos hallado al Mesías, que declarado es, el Cristo.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.42#Y le trajo á Jesus. Y mirándole Jesus, dijo: Tú eres Simon, hijo de Jonás: tu serás llamado Cephas, que quiere decir, Piedra.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.43#El dia siguiente quiso Jesus ir á Galiléa, y halla á Felipe; al cual dice: Sígueme.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.44#Y era Felipe de Bethsaida, la ciudad de Andres y de Pedro.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.45#Felipe halló á Nathanaél, y le dice: Hemos hallado á aquel de quien escribió Moisés en la ley, y los profetas: Jesus, el hijo de Joseph de Nazaret.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.46#Y le dijo Nathanaél: ¿De Nazaret puede haber algo de bueno? Dícele Felipe: Ven, y ve.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.47#Jesus vió venir á sí á Nathanaél, y dijo de él: Hé aquí [un] verdaderamente Israelita, en el cual no hay engaño.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.48#Dícele Nathanaél: ¿De dónde me conoces? Respóndele Jesus, y le dijo: Antes que Felipe te llamara, cuando estabas debajo de la higuera, te ví.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.49#Respondió Nathanaél, y le dijo: Rabbí, tú eres el Hijo de Dios; tú eres el Rey de Israél.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.50#Respondió Jesus, y le dijo: Porque te dije: Víte debajo de la higuera, crees: cosas mayores que estas verás.
+urn:cts:greekLit:tlg0031.tlg004.reina:1.51#Y le dice: De cierto, de cierto os digo: De aquí adelante vereis el cielo abierto, y ángeles de Dios que suben y descienden sobre el Hijo del hombre.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.1#Y AL tercer dia hiciéronse unas bodas en Caná de Galiléa; y estaba allí la madre de Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.2#Y fué tambien llamado Jesus, y sus discípulos, á las bodas.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.3#Y faltando el vino, la madre de Jesus le dijo: Vino no tienen.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.4#Y le dice Jesus: ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.5#Su madre dice á los que servian: Haced todo lo que os dijere.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.6#Y estaban allí seis tinajuelas de agua de piedra, conforme á la purificacion de los Judíos, que cabia en cada una dos ó tres cántaros.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.7#Díceles Jesus: Llenad estas tinajuelas de agua. Y las llenaron hasta arriba.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.8#Y díceles: Sacad ahora, y presentad al maestresala. Y presentáronle.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.9#Y como el maestresala gustó el agua hecha vino, que no sabia de donde era: mas los que servian, lo sabian, que habian sacado el agua: el maestresala llama al esposo,
+urn:cts:greekLit:tlg0031.tlg004.reina:2.10#y le dice: Todo hombre pone primero el buen vino; y cuando [ya] están hartos, entonces lo que es peor: mas tú has guardado el buen vino hasta ahora.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.11#Este principio de señales hizo Jesus en Caná de Galiléa, y manifestó su gloria; y sus discípulos creyeron en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.12#Despues de esto descendió á Capharnaum, él, y su madre, y hermanos, y discípulos; y estuvieron allí no muchos dias.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.13#Y ESTABA cerca la Pascua de los Judíos, y subió Jesus á Jerusalem.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.14#Y halló en el templo los que vendian bueyes, y ovejas, y palomas, y los cambiadores sentados.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.15#Y hecho un azote de cuerdas, echólos á todos del templo, y las ovejas, y los bueyes, y derramó los dineros de los cambiadores, y trastornó las mesas.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.16#Y á los que vendian las palomas dijo: Quitad de aquí esto, y no hagais la casa de mi Padre casa de mercado.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.17#Entonces se acordaron sus discípulos que está escrito: El celo de tu casa me comió.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.18#Y los Judíos respondieron, y le dijeron: ¿ Qué señal nos muestras de que haces esto?
+urn:cts:greekLit:tlg0031.tlg004.reina:2.19#Respondió Jesus, y les dijo: Destruid este templo, y en tres dias [yo] le levantaré.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.20#Dijeron luego los Judíos: ¿En cuarenta y seis años fué este templo edificado, y tú en tres dias le levantarás?
+urn:cts:greekLit:tlg0031.tlg004.reina:2.21#Mas él hablaba del templo de su cuerpo.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.22#Por tanto cuando resucitó de los muertos, sus discípulos se acordaron que les habia dicho esto, y creyeron á la Escritura, y á la palabra que Jesus habia dicho.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.23#Y estando en Jerusalem en la Pascua, en el dia de la fiesta, muchos creyeron en su nombre, viendo sus señales que hacia.
+urn:cts:greekLit:tlg0031.tlg004.reina:2.24#Mas el mismo Jesus no se confiaba á si mismo de ellos, porque él conocia á todos,
+urn:cts:greekLit:tlg0031.tlg004.reina:2.25#y no tenia necesidad que alguien le diese testimonio del hombre: porque él sabia lo que habia en el hombre.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.1#Y HABIA un hombre de los Fariséos que se llamaba Nicodemo, príncipe de los Judíos.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.2#Este vino á Jesus de noche, y le dijo: Rabbí, sabemos que has venido de Dios [por] maestro: porque nadie puede hacer estas señales que tú haces, si no fuere Dios con él.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.3#Respondió Jesus, y le dijo: De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.4#Dícele Nicodemo: ¿Cómo puede el hombre nacer, siendo viejo? ¿puede entrar otra vez en el vientre de su madre, y nacer?
+urn:cts:greekLit:tlg0031.tlg004.reina:3.5#Respondió Jesus: De cierto, de cierto te digo, que el que no renaciere de agua y de Espíritu, no puede entrar en el reino de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.6#Lo que es nacido de carne, carne es; y lo que es nacido de Espíritu, espíritu es.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.7#No te maravilles de que te dije: Necesario os es nacer otra vez.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.8#El viento de donde quiere sopla; y oyes su sonido, mas ni sabes de donde viene, ni donde vaya: así es todo aquel que es nacido de Espíritu.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.9#Respondió Nicodemo, y le dijo: ¿Cómo puede esto hacerse?
+urn:cts:greekLit:tlg0031.tlg004.reina:3.10#Respondió Jesus, y le dijo: ¿Tú eres el maestro de Israél, y no sabes esto?
+urn:cts:greekLit:tlg0031.tlg004.reina:3.11#De cierto, de cierto te digo, que lo que sabemos hablamos; y lo que hemos visto, testificamos, y no recibís nuestro testimonio.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.12#Si os he dicho cosas terrenas, y no creeis: ¿cómo creereis, si os dijere las celestiales?
+urn:cts:greekLit:tlg0031.tlg004.reina:3.13#Y nadie subió al cielo, sino el que descendió del cielo, [es á saber,] el Hijo del hombre, que está en el cielo.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.14#Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del hombre sea levantado:
+urn:cts:greekLit:tlg0031.tlg004.reina:3.15#para que todo aquel que en él creyere, no se pierda, mas tenga vida eterna.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.16#Porque de tal manera amó Dios al mundo, que haya dado á su Hijo unigénito: para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.17#Porque no envió Dios á su Hijo al mundo, para que condene al mundo: mas para que el mundo sea salvo por él.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.18#El que en él cree, no es condenado: mas el que no cree, ya es condenado: porque no creyó en el nombre del unigénito Hijo de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.19#Y esta es la condenacion, [es á saber,] porque la luz vino al mundo, y los hombres amaron mas las tinieblas que la luz: porque sus obras eran malas.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.20#Porque todo aquel que hace lo malo, aborrece la luz y no viene á la luz, porque sus obras no sean redargüidas.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.21#Mas el que obra verdad, viene á la luz, para que sus obras sean manifiestas, que son hechas en Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.22#PASADO esto, vino Jesus y sus discípulos á una tierra de Judéa; y estaba allí con ellos, y bautizaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.23#Y bautizaba tambien Juan en Enon junto á Salim, porque habia muchas aguas; y venian, y eran bautizados.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.24#Porque aun Juan no habia sido puesto en la cárcel.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.25#Y hubo cuestion entre los discípulos de Juan y los Judíos acerca de la purificacion.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.26#Y vinieron á Juan, y le dijeron: Rabbí, el que estaba contigo de la otra parte del Jordán, del cual té diste testimonio, hé aquí, bautiza, y todos vienen á él.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.27#Respondió Juan, y dijo: No puede el hombre recibir algo si no le fuere dado del cielo.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.28#Vosotros mismos me sois testigos que dije: Yo no soy el Cristo: mas soy enviado delante de él.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.29#El que tiene la esposa, es el esposo: mas [el] amigo del esposo, que está en pié y le oye, se goza grandemente de la voz del esposo. Así, pues, este mi gozo es cumplido.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.30#A él conviene crecer: mas á mí ser disminuido.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.31#El que de arriba viene, sobre todos es: el que es de la tierra, terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.32#Y lo que vió y oyó, esto testifica; y nadie recibe su testimonio.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.33#El que recibe su testimonio, este signó, que Dios es verdadero:
+urn:cts:greekLit:tlg0031.tlg004.reina:3.34#porque el que Dios envió, las palabras de Dios habla: porque no [le] da Dios el Espíritu por medida.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.35#El Padre ama al Hijo, y todas las cosas dió en su mano.
+urn:cts:greekLit:tlg0031.tlg004.reina:3.36#El que cree en el Hijo, tiene vida eterna: mas el que al Hijo es incrédulo, no verá la vida: mas la ira de Dios está sobre él.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.1#DE manera que, como Jesus entendió que los Fariséos habian oido que Jesus hacia discípulos, y bautizaba mas que Juan,
+urn:cts:greekLit:tlg0031.tlg004.reina:4.2#(aunque Jesus no bautizaba, sino sus discípulos,)
+urn:cts:greekLit:tlg0031.tlg004.reina:4.3#dejó á Judéa, y se fué otra vez á Galiléa.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.4#Y era menester que pasase por Samaria.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.5#Vino pues á una ciudad de Samaria que se llama Sichár, junto á la heredad que Jacob dió á Joseph su hijo.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.6#Y estaba allí la fuente de Jacob. Así que Jesus, cansado del camino, así se sentó al lado de la fuente. Era como la hora de las seis.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.7#Vino una mujer de Samaria á sacar agua: y Jesus le dice: Dáme de beber.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.8#(Porque sus discípulos eran idos á la ciudad á comprar de comer.)
+urn:cts:greekLit:tlg0031.tlg004.reina:4.9#Y la mujer Samaritana le dice: ¿Cómo tú, siendo Judío, me demandas á mí de beber' que soy mujer Samaritana? Porque los Judíos no se tratan con los Samaritanos.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.10#Respondió Jesus, y le dijo: Si conocieses el don de Dios, y quién es el que te dice: Dáme de beber: tu pedirias de él, y él te daria agua viva.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.11#La mujer le dice: Señor, no tienes con que sacarla, y el pozo es hondo: ¿de dónde, pues, tienes el agua viva?
+urn:cts:greekLit:tlg0031.tlg004.reina:4.12#¿ eres tú mayor que nuestro padre Jacob, que nos dió este pozo, del cual él bebió, y sus hijos, y sus ganados?
+urn:cts:greekLit:tlg0031.tlg004.reina:4.13#Respondió Jesus, y le dijo: Cualquiera que bebiere de esta agua, volverá á tener sed:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.14#mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él fuente de agua, que salte para vida eterna
+urn:cts:greekLit:tlg0031.tlg004.reina:4.15#La mujer le dice: Señor, dáme esta agua, para que [yo] no tenga sed, m venga acá á sacarla.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.16#Jesus le dice: Vé, llama á tu marido, y vén acá.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.17#Respondió la mujer, y le dijo: No tengo marido. Dícele Jesus: Bien has dicho, que no tengo marido:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.18#porque cinco maridos has tenido; y el que ahora tienes, no es tu marido: esto has dicho con verdad.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.19#Dícele la mujer: Señor, paréceme que tú eres profeta:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.20#nuestros padres adoraron en este monte, y vosotros decís, que en Jerusalem es el lugar donde es menester adorar.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.21#Dícele Jesus: Mujer, créeme, que la hora viene, cuando ni en este monte, ni en Jerusalem adorareis al Padre:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.22#vosotros adorais lo que no sabeis: nosotros adoramos lo que sabemos: porque la salud viene de los Judíos:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.23#mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad: porque tambien el Padre tales adoradores busca que le adoren:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.24#Dios es Espíritu, y los que le adoran, en espíritu y en verdad es menester que adoren.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.25#Dícele la mujer: [Yo] sé que el Mesías ha de venir, el cual se dice, el Cristo: cuando él viniere, nos declarará todas las cosas.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.26#Dícele Jesus: Yo soy, que hablo contigo.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.27#Y en esto vinieron sus discípulos, y se maravillaron de que hablaba con [aquella] mujer: mas ninguno le dijo: ¿Qué preguntas; ó, qué hablas con ella?
+urn:cts:greekLit:tlg0031.tlg004.reina:4.28#Entonces la mujer dejó su cántaro, y fué á la ciudad, y dijo á aquellos hombres:
+urn:cts:greekLit:tlg0031.tlg004.reina:4.29#Venid, ved un hombre que me ha dicho todo lo que he hecho: ¿si es quizá el Cristo?
+urn:cts:greekLit:tlg0031.tlg004.reina:4.30#Entonces salieron de la ciudad, y vinieron á él.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.31#Entre tanto los discípulos le rogaban, diciendo: Rabbí, come.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.32#Y él les dijo: Yo tengo una comida que comer, que vosotros no sabeis.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.33#Entonces los discípulos decian el uno al otro: ¿Si le ha traido alguien de comer?
+urn:cts:greekLit:tlg0031.tlg004.reina:4.34#Díceles Jesus: Mi comida es, que [yo] haga la voluntad del que me envió, y que acabe su obra.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.35#¿No decís vosotros que aun hay cuatro meses hasta la siega? Hé aquí, [yo] os digo: Alzad vuestros ojos, y mirad las regiones: porque ya están blancas para la siega.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.36#Y el que siega recibe salario, y allega fruto para vida eterna: para que el que siembra tambien goce, y el que siega.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.37#Porque en esto es el dicho verdadero: Que uno es el que siembra, y otro es el que siega.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.38#Yo os he enviado á segar lo que vosotros no labrasteis: otros labraron, y vosotros habeis entrado en sus labores.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.39#Y muchos de los Samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio, [diciendo:] Que me dijo todo lo que he hecho.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.40#Mas viniendo los Samaritanos á él, le rogaron que se quedase allí: y se quedó allí dos dias.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.41#Y creyeron muchos mas por la palabra de él.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.42#Y decian á la mujer: Que ya no creemos por tu dicho: porque nosotros mismos hemos oido, y sabemos, que verdaderamente este es el Salvador del mundo, el Cristo.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.43#Y dos dias despues salió de allí, y se fué á Galiléa.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.44#Porque el mismo Jesus dió testimonio: Que el profeta en su tierra no tiene honra.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.45#Y como vino á Galiléa, los Galiléos le recibieron, vistas todas las cosas que habia hecho en Jerusalem en el dia de la fiesta: porque tambien ellos habian venido al dia de la fiesta.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.46#Vino pues Jesus otra vez á Caná de Galiléa, donde habia hecho el vino del agua: y habia en Capharnaum uno del rey, cuyo hijo estaba enfermo.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.47#Este, como oyó que Jesus venia de Judéa en Galiléa, fué á él, y le rogaba que descendiese, y sanase su hijo: porque se comenzaba á morir.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.48#Entonces Jesus le dijo: Si no viéreis señales y milagros, no creereis.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.49#El del rey le dijo: Señor, desciende antes que mi hijo muera.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.50#Dícele Jesus: Vé, tu hijo vive. Creyó el hombre á la palabra que Jesus le dijo, y se fué.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.51#Y viniendo ya él, los siervos le salieron á recibir, y le dieron nuevas, diciendo: Tu hijo vive.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.52#Entonces él les preguntó á qué hora comenzó á estar mejor; y le dijeron: Ayer á las siete le dejó la fiebre.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.53#El padre entonces entendió, que aquella hora era cuando Jesus le dijo: Tu hijo vive: y creyó él, y toda su casa.
+urn:cts:greekLit:tlg0031.tlg004.reina:4.54#Esta segunda señal volvió Jesus á hacer cuando vino de Judéa á Galiléa.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.1#DESPUES de estas cosas, era un dia de fiesta de los Judíos, y subió Jesus á Jerusalem.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.2#Y está en Jerusalem á [la Puerta] del Ganado un estanque, que en hebráico es llamado Beth-esda, el cual tiene cinco portales.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.3#En estos estaba echada grande multitud de enfermos, ciegos, cojos, secos, que estaban esperando el movimiento del agua:
+urn:cts:greekLit:tlg0031.tlg004.reina:5.4#porque el ángel descendia á cierto tiempo al estanque, y revolvia el agua; y el que primero descendia en el estanque, despues del movimiento del agua, era sano de cualquier enfermedad que tuviese.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.5#Y estaba allí un hombre, que habia treinta y ocho años que estaba enfermo.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.6#Como Jesus vió á este echado, y entendió que ya habia mucho tiempo, dícele: ¿Quieres ser sano?
+urn:cts:greekLit:tlg0031.tlg004.reina:5.7#Y el enfermo le respondió: Señor, no tengo hombre, que cuando el agua fuere revuelta, me meta en el estanque: porque entre tanto que yo vengo, otro antes de mí ha descendido.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.8#Dícele Jesus: Levántate, toma tu lecho, y anda.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.9#Y luego aquel hombre fué sano, y tomó su lecho, é íbase: y era sábado aquel dia.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.10#Entonces los Judíos decian á aquel que habia sido sanado: Sábado es, no te es lícito llevar tu lecho.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.11#Respondióles: El que me sanó, el mismo me dijo: Toma tu lecho, y anda.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.12#Y le preguntaron entonces: ¿Quién es el que te dijo: Toma tu lecho, y anda?
+urn:cts:greekLit:tlg0031.tlg004.reina:5.13#Y el que habia sido sanado, no sabia quién fuese: porque Jesus se habia apartado de la compañía que estaba en aquel lugar.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.14#Despues le halló Jesus en el templo, y le dijo: Hé aquí, eres [ya] sano: no peques mas, porque no te venga alguna cosa peor.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.15#El se fué [entonces,] y dió aviso á los Judíos, que Jesus era el que le habia sanado.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.16#Y por esta causa los Judíos perseguian á Jesus, y procuraban matarle, porque hacia estas cosas en sábado.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.17#Y Jesus les respondió: Mi Padre hasta ahora obra, y yo obro.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.18#Entonces mas procuraban los Judíos matarle: porque no solo quebrantaba el sábado, mas aun tambien á su padre llamaba Dios, haciéndose igual á Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.19#Respondió pues Jesus, y les dijo: De cierto, de cierto os digo: [Que] no puede el Hijo hacer algo de si mismo, sino viere hacer al Padre; porque todo lo que él hace, esto tambien hace el Hijo juntamente.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.20#Porque el Padre ama al Hijo, y le muestra todas las cosas que él hace; y mayores obras que estas le mostrará, que vosotros os maravilleis.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.21#Porque como el Padre levanta los muertos, y [les] da vida, así tambien el Hijo á los que quiere da vida.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.22#Porque el Padre á nadie juzga: mas todo el juicio dió al Hijo,
+urn:cts:greekLit:tlg0031.tlg004.reina:5.23#para que todos honren al Hijo, como honran al Padre: el que no honra al Hijo, no honra al Padre que le envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.24#De cierto, de cierto os digo: [Que] el que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá á juicio, mas pasó de muerte á vida.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.25#De cierto, de cierto os digo: [Que] vendrá hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios, y los que oyeren, vivirán.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.26#Porque como el Padre tiene vida en sí mismo, así dió tambien al Hijo que tuviese vida en sí mismo.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.27#Y tambien le dió poder de hacer juicio, en cuanto es el Hijo del hombre.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.28#No os maravilleis de esto: porque vendrá hora, cuando todos los que están en los sepulcros oirán su voz:
+urn:cts:greekLit:tlg0031.tlg004.reina:5.29#y los que hicieron bienes, saldrán á resurreccion de vida: mas los que hicieron males, á resurreccion de juicio.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.30#No puedo yo de mí mismo hacer algo: como oigo, juzgo; y mi juicio es justo: porque no busco mi voluntad, mas la voluntad de aquel que me envió, del Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.31#Si yo doy testimonio de mí mismo, mi testimonio no es verdadero.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.32#Otro es el que da testimonio de mí; y sé que el testimonio que da de mí, es verdadero.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.33#Vosotros enviasteis á Juan, y [él] dió testimonio á la verdad.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.34#Mas yo no tomo el testimonio de hombre: mas digo esto, para que vosotros seais salvos.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.35#El era candil que ardia, y alumbraba: mas vosotros quisisteis engreíros por un poco á su luz.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.36#Mas yo tengo mayor testimonio que el de Juan: porque las obras que el Padre me dió que cumpliese, [es á saber,] las mismas obras que yo hago, dan testimonio de mí, que el Padre me haya enviado.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.37#Y el que me envió, el Padre, él dió testimonio de mí. Ni nunca habeis oido su voz, ni habeis visto su parecer,
+urn:cts:greekLit:tlg0031.tlg004.reina:5.38#ni teneis su palabra permanente en vosotros: porque al que él envió, á este vosotros no creeis.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.39#Escudriñad las Escrituras: porque á vosotros os parece, que en ellas teneis la vida eterna; y ellas son las que dan testimonio de mí:
+urn:cts:greekLit:tlg0031.tlg004.reina:5.40#y no quereis venir á mí, para que tengais vida.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.41#Gloria de los hombres no recibo.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.42#Mas yo os conozco, que no teneis amor de Dios en vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.43#Yo he venido en nombre de mi Padre, y no me recibís: si otro viniere en su propio nombre, á aquel recibireis.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.44#¿Cómo podeis vosotros creer, pues tomais la gloria los unos de los otros? y no buscais la gloria que de solo Dios viene.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.45#No penseis que os tengo de acusar delante del Padre: hay quien os acusa, Moisés, en quien vosotros esperais.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.46#Porque si vosotros creyeseis á Moisés, creeriais á mí: porque de mí escribió él.
+urn:cts:greekLit:tlg0031.tlg004.reina:5.47#Y si á sus escritos no creeis, ¿cómo creereis á mis palabras?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.1#PASADAS estas cosas, se fué Jesus de la otra parte de la mar de Galiléa, [que es] de Tiberias.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.2#Y seguíale grande multitud, porque veian sus señales que hacia en los enfermos.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.3#Subió pues Jesus á un monte, y estuvo allí con sus discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.4#Y estaba cerca la Pascua, el dia de la fiesta de los Judíos.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.5#Y como alzó Jesus los ojos, y vió que habia venido á él grande multitud, dice á Felipe: ¿De dónde compraremos pan para que coman estos?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.6#Mas esto decia tentándole: porque él sabia lo que habia de hacer.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.7#Respondióle Felipe: Doscientos dineros de pan no les bastarán, para que cada uno de ellos tome un poco.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.8#Dícele uno de sus discípulos, Andres, hermano de Simon Pedro:
+urn:cts:greekLit:tlg0031.tlg004.reina:6.9#Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos: ¿mas qué es esto entre tantos?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.10#Entonces Jesus dijo: Haced recostar la gente. Y habia mucha yerba en aquel lugar; y recostáronse como número de cinco mil varones.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.11#Y tomó Jesus aquellos panes, y habiendo hecho gracias, repartió á los discípulos, y los discípulos á los que estaban recostados: asimismo de los panes cuanto querian.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.12#Y como fueron hartos, dijo á sus discípulos: Coged los pedazos que han quedado, porque no se pierda nada.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.13#Cogieron pues, y llenaron doce esportones de pedazos de los cinco panes de cebada, que sobraron á los que habian comido.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.14#Aquellos hombres entonces, como vieron la señal que Jesus habia hecho, decian: Que este verdaderamente es el Profeta, que habia de venir al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.15#Y entendiendo Jesus que habian de venir para arrebatarle, y hacerle rey, volvió á huirse al monte él solo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.16#Y como se hizo tarde, descendieron sus discípulos á la mar,
+urn:cts:greekLit:tlg0031.tlg004.reina:6.17#y entrando en un navío, venian de la otra parte de la mar hácia Capharnaum. Y era ya oscuro, y Jesus no habia venido á ellos.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.18#Y la mar se comenzó á levantar con un gran viento.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.19#Y como hubieron navegado como veinte y cinco, ó treinta estadios, ven á Jesus que andaba sobre la mar, y se acercaba al navío; y tuvieron miedo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.20#Mas él les dijo: Yo soy: no tengais miedo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.21#Y ellos le recibieron de buena gana en el navío, y luego el navío llegó á la tierra donde iban.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.22#El dia siguiente la compañía que estaba de la otra parte de la mar, como vió que no habia allí otra navecilla sino una, en la cual se habian entrado sus discípulos, y que Jesus no habia entrado con sus discípulos en el navío, mas que sus discípulos solos se habian ido;
+urn:cts:greekLit:tlg0031.tlg004.reina:6.23#y que otras navecillas habian arribado de Tiberias, junto al lugar donde habian comido el pan, despues de haber el Señor hecho gracias;
+urn:cts:greekLit:tlg0031.tlg004.reina:6.24#como vió pues la compañía que Jesus no estaba allí, ni sus discípulos, entraron ellos tambien en las navecillas, y vinieron á Capharnaum buscando á Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.25#Y hallándole de la otra parte de la mar, dijéronle: ¿Rabbí, cuándo llegaste acá?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.26#Respondióles Jesus, y dijo: De cierto, de cierto os digo, que me buscais, no por las señales que habeis visto, mas por el pan que comisteis, y os hartasteis.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.27#Obrad, no [por] la comida que perece, mas [por] la comida que á vida eterna permanece, la cual el Hijo del hombre os dará: porque á este señaló el Padre, [es á saber,] Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.28#Y le dijeron: ¿Qué haremos para que obremos las obras de Dios?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.29#Respondió Jesus, y les dijo: Esta es la obra de Dios, [es á saber,] que creais en el que él envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.30#Dijéronle entonces: ¿Qué señal pues haces tú, para que veamos, y te creamos? ¿qué obras?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.31#nuestros padres comieron el maná en el desierto, como está escrito: Pan del cielo les dió á comer.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.32#Y Jesus les dijo: De cierto, de cierto os digo, [que] no os dió Moisés pan del cielo, mas mi Padre os da el verdadero pan del cielo:
+urn:cts:greekLit:tlg0031.tlg004.reina:6.33#porque el pan de Dios es aquel que descendió del cielo, y da vida al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.34#Y dijéronle: Señor, danos siempre este pan.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.35#Y Jesus les dijo: Yo soy el pan de vida: el que á mí viene, nunca tendrá hambre: y el que en mí cree, no tendrá sed jamás.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.36#Mas [ya] os he dicho, que aunque me habeis visto, no [me] creeis.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.37#Todo lo que el Padre me da, vendrá á mí; y al que á mí viene no le echo fuera.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.38#Porque he descendido del cielo, no para hacer mi voluntad, mas la voluntad de aquel que me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.39#Y esta es la voluntad de aquel que me envió, [es á saber,] del Padre: Que todo lo que me diere, no pierda de ello, mas que lo resucite en el dia postrero.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.40#Y esta es la voluntad de aquel que me envió: Que todo aquel que ve al Hijo, y cree en él tenga vida eterna; y yo le resucitaré en el dia postrero.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.41#Murmuraban entonces de él los Judíos, porque habia dicho: Yo soy el pan que descendí del cielo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.42#Y decian: ¿No es este Jesus, el hijo de Joseph, cuyo padre y madre nosotros conocemos? ¿cómo pues dice este: Que del cielo he descendido?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.43#Y Jesus respondió, y les dijo: No murmureis entre vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.44#Ninguno puede venir á mí, si el Padre que me envió, no le trajere; y yo le resucitaré en el dia postrero.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.45#Escrito está en los Profetas: Y serán todos enseñados de Dios; así que todo aquel que oyó del Padre, y aprendió, viene á mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.46#No que alguno haya visto al Padre, sino aquel que vino de Dios, este ha visto al Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.47#De cierto, de cierto os digo, [que] el que cree en mí, tiene vida eterna.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.48#Yo soy el pan de vida.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.49#Vuestros padres comieron el maná en el desierto, y son muertos.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.50#Este es el pan que desciende del cielo, para que el que de él comiere, no muera.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.51#Yo soy el pan vivo que ha descendido del cielo: si alguno comiere de este pan vivirá para siempre: y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.52#Entonces los Judíos contendian entre sí, diciendo: ¿Cómo puede este darnos su carne á comer?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.53#Y Jesus les dijo: De cierto, de cierto os digo, [que] si no comiéreis la carne del Hijo del hombre, y bebiéreis su sangre, no tendreis vida en vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.54#El que come mi carne, y bebe mi sangre, tiene vida eterna; y yo le resucitaré en el dia postrero.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.55#Porque mi carne verdaderamente es comida, y mi sangre verdaderamente es bebida.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.56#El que come mi carne, y bebe mi sangre, en mí permanece, y yo en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.57#Como me envió el Padre viviente, y yo vivo por el Padre, así tambien el que me come, él tambien vivirá por mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.58#Este es el pan que descendió del cielo: no como vuestros padres comieron el maná, y son muertos: el que come de este pan, vivirá eternamente.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.59#Estas cosas dijo en la sinagoga, enseñando en Capharnaum.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.60#Y muchos de sus discípulos oyéndo[le,] dijeron: Dura es esta palabra, ¿y quién la puede oir?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.61#Y sabiendo Jesus en sí mismo que sus discípulos murmuraban de esto, les dijo: ¿Esto os escandaliza?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.62#¿Pues [qué será,] si viéreis al Hijo del hombre que sube donde estaba primero?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.63#El espíritu es el que da vida: la carne á nada aprovecha: las palabras que yo os hablo, espíritu son, y vida son.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.64#Mas hay algunos de vosotros que no creen. Porque Jesus desde el principio sabia quiénes eran los que no habian de creer, y quién le habia de entregar.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.65#Y decia: Por eso os he dicho: Que ninguno puede venir á mí, si no le fuere dado de mi Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.66#Desde esto muchos de sus discípulos volvieron atrás, y ya no andaban con él.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.67#Dijo entonces Jesus á los doce: ¿Quereis vosotros iros tambien?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.68#Y respondióle Simon Pedro: ¿Señor, á quién iremos? tienes palabras de vida eterna:
+urn:cts:greekLit:tlg0031.tlg004.reina:6.69#y nosotros creemos y conocemos, que tú eres el Cristo, el Hijo de Dios viviente.
+urn:cts:greekLit:tlg0031.tlg004.reina:6.70#Jesus les respondió: ¿No os he yo escogido doce, y el uno de vosotros es diablo?
+urn:cts:greekLit:tlg0031.tlg004.reina:6.71#Y hablaba de Judas Iscariote, [hijo] de Simon: porque este era el que le habia de entregar, el cual era uno de los doce.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.1#Y pasadas estas cosas andaba Jesus en Galiléa: que no queria andar en Judéa, porque los Judíos procuraban de matarle.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.2#Y ERA cerca el dia de la fiesta de los Judíos, de las cabañas.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.3#Y dijéronle sus hermanos: Pásate de aquí, y véte á Judéa, para que tus discípulos vean tus obras que haces:
+urn:cts:greekLit:tlg0031.tlg004.reina:7.4#que ninguno que procure ser claro, hace algo en oculto: si estas cosas haces, manifiéstate al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.5#Porque ni aun sus hermanos creian en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.6#Díceles entonces Jesus: Mi tiempo aun no es venido: mas vuestro tiempo siempre es presto.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.7#No puede el mundo aborreceros á vosotros: mas á mí me aborrece, porque yo doy testimonio de él, que sus obras son malas.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.8#Vosotros subid á esta fiesta: yo no subo aun á esta fiesta; porque mi tiempo no es aun cumplido.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.9#Y habiéndoles dicho esto, se quedó en Galiléa.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.10#Mas como sus hermanos hubieron subido, entonces él tambien subió á la fiesta, no manifiestamente, mas como en secreto.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.11#Y buscábanle los Judíos en el dia de la fiesta, y decian: ¿Dónde está aquel?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.12#Y habia grande murmullo de él en la compañía: porque unos decian: Bueno es; y otros decian: No, antes engaña las compañías.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.13#Mas ninguno hablaba abiertamente de él, de miedo de los Judíos.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.14#Y al medio de la fiesta, subió Jesus al templo, y enseñaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.15#Y maravillábanse los Judíos, diciendo: ¿Cómo sabe este letras, no habiendo aprendido?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.16#Respondióles Jesus, y dijo: Mi doctrina no es mia, sino de el que me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.17#El que quisiere hacer su voluntad, conocerá de la doctrina si viene de Dios, ó si yo hablo de mí mismo.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.18#El que habla de sí mismo, gloria propia busca: mas el que busca la gloria del que le envió, este es verdadero, y no hay en él injusticia.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.19#¿No os dió Moisés la ley; y ninguno de vosotros hace la ley? ¿Por qué me procurais matar?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.20#Respondió la compañía, y dijo: Demonio tienes: ¿quien te procura matar?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.21#Jesus respondió, y les dijo: Una obra hice, y todos os maravillais.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.22#Cierto, Moisés os dió la circuncision, no porque sea de Moisés, mas de los padres, y en sábado circuncidais al hombre.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.23#Si recibe el hombre la circuncision en sábado, para que la ley de Moisés no sea quebrantada, ¿os enojais conmigo porque en sábado hice sano todo un hombre?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.24#No juzgueis segun lo que parece, mas juzgad justo juicio.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.25#Decian entonces unos de los de Jerusalem: ¿No es este al que buscan para matarle?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.26#y hé aquí, habla públicamente, y no le dicen nada: ¿si han entendido verdaderamente los príncipes que este es el Cristo?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.27#mas este, sabemos de donde es; y cuando viniere el Cristo, nadie sabrá de donde sea.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.28#Entonces clamaba Jesus en el templo enseñando, y diciendo: Y á mí me conoceis, y sabeis de donde soy: empero no he venido de mí mismo: mas el que me envió es verdadero, al cual vosotros ignorais:
+urn:cts:greekLit:tlg0031.tlg004.reina:7.29#empero yo le conozco: porque de él soy, y él me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.30#Entonces procuraban prenderle: mas ninguno metió en él mano, porque aun no habia venido su hora.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.31#Y de la compañía, muchos creyeron en él, y decian: ¿ El Cristo, cuando viniere, hará mas señales que las que este hace?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.32#los Fariséos oyeron la compañía que murmuraba de él estas cosas; y los príncipes de los sacerdotes, y los Fariséos enviaron servidores que le prendiesen.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.33#Y Jesus les dijo: Aun un poco de tiempo estaré con vosotros, é iré á aquel que me envió:
+urn:cts:greekLit:tlg0031.tlg004.reina:7.34#me buscareis, y no [me] hallareis; y donde yo estaré, vosotros no podreis venir.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.35#Entonces los Judíos dijeron entre sí: ¿Dónde se ha de ir este que no le hallaremos? ¿se ha de ir á los esparcidos entre los Griegos, y á enseñar los Griegos?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.36#¿Qué dicho es este que dijo: Me buscareis, y no [me] hallareis: y donde yo estaré, vosotros no podreis venir?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.37#Mas en el postrer dia grande de la fiesta, Jesus se ponia en pié, y clamaba, diciendo: Si alguno tiene sed, venga á mí, y beba:
+urn:cts:greekLit:tlg0031.tlg004.reina:7.38#el que cree en mí, como dice la Escritura, rios de agua viva correrán de su vientre.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.39#Y esto dijo del Espíritu, que habian de recibir los que creyesen en él: porque aun no era el Espíritu Santo, porque Jesus aun no era glorificado.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.40#Entonces muchos de la compañía oyendo este dicho, decian: Verdaderamente este es el Profeta.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.41#Otros decian: Este es el Cristo. Algunos empero decian: ¿De Galiléa ha de venir el Cristo?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.42#¿no dice la Escritura: Que de la simiente de David, y de la aldea de Bethlehem, de donde era David, vendrá el Cristo?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.43#Así que habia disension en la compañía por él.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.44#Y algunos de ellos le querian prender: mas ninguno metió sobre él manos.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.45#Y los porquerones vinieron á los pontífices, y á los Fariséos, y ellos les dijeron: ¿Por qué no le trajisteis?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.46#los porquerones respondieron: Nunca así ha hablado hombre, como este hombre habla.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.47#Entonces los Fariséos les respondieron: ¿Sois tambien vosotros engañados?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.48#ha creido en él alguno de los príncipes, ó de los Fariséos?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.49#sino este vulgo que no sabe la ley, malditos son.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.50#Díceles Nicodemo, el que vino á él de noche, el cual era uno de ellos:
+urn:cts:greekLit:tlg0031.tlg004.reina:7.51#¿Juzga nuestra ley á hombre, si primero no oyere de él, y entendiere lo que ha hecho?
+urn:cts:greekLit:tlg0031.tlg004.reina:7.52#Respondieron, y dijéronle: ¿No eres tú tambien Galiléo? Escudriña, y ve, que de Galiléa nunca se levantó profeta.
+urn:cts:greekLit:tlg0031.tlg004.reina:7.53#Y volviéronse cada uno á su casa.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.1#Y JESUS se fué al monte de las Olivas.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.2#Y por la mañana volvió al templo, y todo el pueblo vino á él; y sentado él los enseñaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.3#Entonces los escribas y los Fariséos traen á el una mujer tomada en adulterio; y poniéndola en medio,
+urn:cts:greekLit:tlg0031.tlg004.reina:8.4#dícenle: Maestro, esta mujer ha sido tomada en el mismo hecho adulterando:
+urn:cts:greekLit:tlg0031.tlg004.reina:8.5#y en la ley Moisés nos mandó apedrear á las tales: ¿tú, pues, qué dices?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.6#Mas esto decian tentándole, para poderle acusar: empero Jesus bajado hácia abajo escribia en tierra con el dedo.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.7#Y como perseverasen preguntándole, enderezóse, y les dijo: El que de vosotros es sin pecado, arroje contra ella la piedra el primero.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.8#Y volviéndose á bajar hácia abajo, escribia en tierra.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.9#Oyendo pues [ellos] esto <redargüidos de la conciencia> salíanse uno á uno, comenzando desde los mas viejos <hasta los postreros,> y quedó solo Jesus, y la mujer que estaba en medio.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.10#Y enderezándose Jesus, y no viendo á nadie mas que á la mujer, le dijo: ¿Mujer, dónde están los que te acusaban? ¿ninguno te ha condenado?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.11#Y ella dijo: Señor, ninguno. Entonces Jesus le dijo: Ni yo te condeno: véte, y no peques mas.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.12#Y hablóles Jesus otra vez diciendo: Yo soy la luz del mundo: el que me sigue, no andará en tinieblas, mas tendrá lumbre de vida.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.13#Entonces los Fariséos le dijeron: Tú de tí mismo das testimonio: tu testimonio no es verdadero.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.14#Respondió Jesus, y les dijo: Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero: porque sé de donde he venido, y á donde voy: mas vosotros no sabeis de donde vengo, y á donde voy.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.15#Vosotros segun la carne juzgais: mas yo no juzgo á nadie.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.16#Y si yo juzgo, mi juicio es verdadero: porque no soy solo, mas yo, y el que me envio, el Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.17#Y en vuestra ley está escrito, que el testimonio de dos hombres es verdadero.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.18#Yo soy el que doy testimonio de mi mismo; y da testimonio de mí el que me envió, el Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.19#Y decíanle: ¿Dónde está tu Padre? Respondió Jesus: Ni á mí [me] conoceis, ni á mi Padre: si á mí me conociéseis, á mi Padre tambien conoceriais.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.20#Estas palabras habló Jesus en el lugar de las limosnas, enseñando en el templo; y nadie le prendió: porque aun no habia venido su hora.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.21#Y díjoles otra vez Jesus: Yo voy, y me buscareis, mas en nuestro pecado morireis: á donde yo voy, vosotros no podeis venir.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.22#Decian entonces los Judíos: ¿Se ha de matar á sí mismo, que dice: A donde yo voy, vosotros no podeis venir?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.23#Y decíales: Vosotros sois de abajo, yo soy de arriba: vosotros sois de este mundo, yo no soy de este mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.24#Por eso os dije, que moririais en vuestros pecados: porque si no creyéreis que yo soy, en vuestros pecados morireis.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.25#Y decíanle: ¿Tú, quién eres? Entonces Jesus les dijo: El que al principio tambien os he dicho:
+urn:cts:greekLit:tlg0031.tlg004.reina:8.26#muchas cosas tengo que decir, y juzgar de vosotros: mas el que me envió, es verdadero: y yo lo que he oido de él, esto hablo en el mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.27#Mas no entendieron que él les hablaba del Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.28#Díjoles pues Jesus: Cuando levantareis al Hijo del hombre, entonces entendereis que yo soy, y que nada hago de mí mismo: mas como el Padre me enseñó, esto hablo:
+urn:cts:greekLit:tlg0031.tlg004.reina:8.29#porque el que me envió, conmigo está: no me ha dejado solo el Padre: porque yo, lo que á él agrada. hago siempre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.30#Hablando él estas cosas, muchos creyeron en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.31#Y decia Jesus á los Judíos que le habian creido: Si vosotros permaneciéreis en mi palabra, sereis verdaderamente mis discípulos;
+urn:cts:greekLit:tlg0031.tlg004.reina:8.32#y conocereis la verdad, y la verdad os libertará.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.33#Y respondiéronle: Simiente de Abraham somos, y jamás servimos á nadie: ¿como dices tú: Sereis libres?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.34#Jesus les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.35#Y el siervo no queda en casa para siempre: mas el Hijo queda para siempre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.36#Así que, si el Hijo os libertare, sereis verdaderamente libres.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.37#[Yo] sé que sois simiente de Abraham: mas procurais matarme, porque mi palabra no cabe en vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.38#Yo, lo que he visto acerca de mi Padre, hablo; y vosotros lo que habeis visto acerca de vuestro padre, haceis.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.39#Respondieron, y dijéronle: Nuestro padre es Abraham. Díceles Jesus: Si fuérais hijos de Abraham, las obras de Abraham hariais:
+urn:cts:greekLit:tlg0031.tlg004.reina:8.40#empero ahora procurais de matarme, hombre que os he hablado la verdad, la cual he oido de Dios: no hizo esto Abraham:
+urn:cts:greekLit:tlg0031.tlg004.reina:8.41#vosotros haceis las obras de vuestro padre. Dijéronle pues: Nosotros no somos nacidos de fornicacion: un padre tenemos, [es á saber,] Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.42#Jesus entonces les dijo: Si vuestro padre fuera Dios, ciertamente me amariais [á mí:] porque yo de Dios he salido, y he venido: que no he venido de mí mismo, mas él me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.43#¿Por qué no reconoceis mi lenguaje? que no podeis oir mi palabra.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.44#Vosotros de padre diablo sois, y los deseos de vuestro padre quereis cumplir: él homicida ha sido desde el principio; y no permaneció en verdad: porque no hay verdad en él. Cuando habla mentira, de suyo habla: porque es mentiroso, y padre de mentira.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.45#Y porque yo digo verdad, no me creeis.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.46#¿Quién de vosotros me redarguye de pecado? Si digo verdad, ¿por qué vosotros no me creeis?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.47#El que es de Dios, las palabras de Dios oye: [las cuales] por tanto no oís vosotros, porque no sois de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.48#Respondieron entonces los Judíos, y dijéronle: ¿No decimos bien nosotros, que tú eres Samaritano, y [que] tienes demonio?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.49#Respondió Jesus: Yo no tengo demonio: antes honro á mi Padre, y vosotros me habeis deshonrado.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.50#Y no busco mi gloria: hay quien [la] busque, y juzgue.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.51#De cierto, de cierto os digo, que el que guardare mi palabra, no verá muerte para siempre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.52#Entonces los Judíos le dijeron: Ahora conocemos que tienes demonio: Abraham murió, y los profetas; y tú dices: El que guardare mi palabra, no gustará muerte para siempre.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.53#¿Eres tú mayor que nuestro padre Abraham, el cual murió? y los profetas murieron: ¿quién te haces?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.54#Respondió Jesus: Si yo me glorifico á mi mismo, mi gloria es nada: mi Padre es el que me glorifica: el que vosotros decís, que es vuestro Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.55#Y no le conoceis: mas yo le conozco: y si dijere que no le conozco, seré como vosotros, mentiroso: mas le conozco, y guardo su palabra.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.56#Abraham vuestro padre se gozó por ver mi dia: y le vió. Y se gozó.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.57#Dijéronle entonces los Judíos: Aun no tienes cincuenta años: ¿y viste á Abraham?
+urn:cts:greekLit:tlg0031.tlg004.reina:8.58#Díjoles Jesus: De cierto, de cierto os digo, antes que Abraham fuese, yo soy.
+urn:cts:greekLit:tlg0031.tlg004.reina:8.59#Tomaron entonces piedras para arrojarle: mas Jesus se encubrió, y se salió del templo; y atravesando por medio de ellos se fué.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.1#Y PASANDO Jesus, vió un hombre ciego desde [su] nacimiento.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.2#Y preguntáronle sus discípulos, diciendo: ¿Rabbí, quién pecó, este ó sus padres, porque naciese ciego?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.3#Respondió Jesus: Ni este pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.4#á mí [me] conviene obrar las obras de aquel que me envió, entre tanto que el dia dura: la noche viene, cuando nadie puede obrar:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.5#entre tanto que estuviere en el mundo, luz soy del mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.6#Esto dicho, escupió en tierra; é hizo lodo de la saliva, y untó [con] el lodo sobre los ojos del ciego,
+urn:cts:greekLit:tlg0031.tlg004.reina:9.7#y le dijo: Vé, lava [los ojos] en el estanque de Siloé, que significa, si [lo] declares, Enviado; y fué entonces, y [los] lavó, y volvió viendo.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.8#Entonces los vecinos, y los que antes le habian visto que era ciego, decian: ¿No es este el que se sentaba, y mendigaba?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.9#Otros decian: ¿Que este es? y otros: Parécese á él; y él decia: Que yo soy.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.10#Y le decian: ¿Cómo te fueron abiertos los ojos?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.11#Respondió él, y dijo: Aquel hombre que se llama Jesus, hizo lodo, y me untó los ojos, y me dijo: Vé al estanque de Siloé, y láva[te;] y fuí, y lavé [los ojos,] y recibí la vista.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.12#Y dijéronle: ¿Dónde está aquel? Dice [él:] No sé.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.13#Llévanle á los Fariséos, al que antes habia sido ciego.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.14#Y era sábado cuando Jesus habia hecho el lodo, y le habia abierto los ojos.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.15#Y volviéronle á preguntar tambien los Fariséos, de qué manera habia recibido la vista; y él les dijo: Púsome lodo sobre los ojos, y [los] lavé, y veo.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.16#Entonces unos de los Fariséos le decian: Este hombre no es de Dios, que no guarda el sábado. Y otros decian: ¿Cómo puede un hombre pecador hacer estas señales? Y habia disension entre ellos.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.17#Vuelven á decir al ciego: ¿Tú, qué dices de el que te abrió los ojos? Y él dijo: Que es profeta.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.18#Mas los Judíos no creian de él, que habia sido él ciego, y hubiese recibido la vista, hasta que llamaron á sus padres de el que habia recibido la vista.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.19#Y preguntáronles, diciendo: ¿Es este vuestro hijo, el que vosotros decís, que nació ciego? ¿cómo, pues, ve ahora?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.20#Respondiéronles sus padres, y dijeron: Sabemos que este es nuestro hijo, y que nació ciego:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.21#mas cómo vea ahora, no sabemos; ó quién le haya abierto los ojos, nosotros no lo sabemos: él tiene edad, preguntadle á él, él hablará de sí.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.22#Esto dijeron sus padres, porque tenian miedo de los Judíos: porque ya los Judíos habian concluido que si alguno confesase ser él el Mesías, que fuese fuera de la sinagoga.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.23#Por eso dijeron sus padres: Que edad tiene, preguntadle á él.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.24#Así que volvieron á llamar al hombre que habia sido ciego, y le dijeron: Da gloria á Dios: nosotros sabemos que este hombre es pecador.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.25#Entonces él respondió, y dijo: Si es pecador no lo sé: una cosa sé, que habiendo yo sido ciego, ahora veo.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.26#Y volviéronle á decir: ¿Qué te hizo? ¿cómo te abrió los ojos?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.27#Respondióles: Ya os [lo] he dicho, y lo habeis oido: ¿por qué [lo] quereis otra vez oir? ¿quereis tambien vosotros haceros sus discípulos?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.28#Y maldijéronle, y dijeron: Tú eres su discípulo: que nosotros discípulos de Moisés somos:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.29#nosotros sabemos que á Moisés habló Dios: mas este no sabemos de donde es.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.30#Respondióles aquel hombre, y les dijo: Cierto maravillosa cosa es esta, que vosotros no sabeis de donde sea, y [á mí] me abrió los ojos:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.31#y sabemos que Dios no oye á los pecadores: mas si alguno es temeroso de Dios, y hace su voluntad, á este oye:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.32#desde el siglo no fué oido, que abriese alguno los ojos de uno que nació ciego:
+urn:cts:greekLit:tlg0031.tlg004.reina:9.33#Si este no fuera [venido] de Dios, no pudiera hacer nada.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.34#Respondieron, y le dijeron: En pecados eres nacido todo; ¿y tú nos enseñas? Y echáronle fuera.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.35#Oyó Jesus que le habian echado fuera; y hallándole, le dijo: ¿Tú crees en el Hijo de Dios?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.36#Respondió él, y dijo: ¿Quién es, Señor, para que crea en él?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.37#Y díjole Jesus: Y le has visto, y el que habla contigo, él es.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.38#Y él dice: Creo, Señor. Y le adoró.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.39#Y dijo Jesus: Yo, para juicio he venido á este mundo, para que los que no ven, vean; y los que ven, sean cegados.
+urn:cts:greekLit:tlg0031.tlg004.reina:9.40#Y oyeron esto algunos de los Fariséos que estaban con él, y le dijeron: ¿Somos nosotros tambien ciegos?
+urn:cts:greekLit:tlg0031.tlg004.reina:9.41#Díjoles Jesus: Si fuérais ciegos, no tuviérais pecado: mas ahora porque decís: Vemos; por tanto vuestro pecado permanece.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.1#DE cierto, de cierto os digo, [que] el que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal ladron es y robador.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.2#Mas el que entra por la puerta, el pastor de las ovejas es.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.3#A este abre el portero, y las ovejas oyen su voz; y á sus ovejas llama por nombre, y las saca.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.4#Y como ha sacado fuera sus ovejas, va delante de ellas; y las ovejas le siguen: porque conocen su voz.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.5#Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.6#Esta parábola les dijo Jesus: mas ellos no entendieron qué [era lo que] les decia.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.7#Volvióles pues Jesus á decir: De cierto, de cierto os digo, que yo soy la puerta de las ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.8#Todos los que antes de mí vinieron, ladrones son y robadores, mas no los oyeron las ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.9#Yo soy la puerta: el que por mí entrare, será salvo; y entrará y saldrá, y hallará pastos.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.10#El ladron no viene sino para hurtar, y matar, y destruir [las ovejas:] yo he venido para que tengan vida, y para que [la] tengan en abundancia.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.11#Yo soy el buen Pastor: el buen pastor su alma da por [sus] ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.12#Mas el asalariado, y que no es el pastor, cuyas no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye; y el lobo arrebata, y disipa las ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.13#Así que el asalariado huye, porque es asalariado, y no tiene cuidado de las ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.14#Yo soy el buen Pastor; y conozco mis ovejas, y las mias me conocen,
+urn:cts:greekLit:tlg0031.tlg004.reina:10.15#como el Padre me conoce [á mí,] y yo conozco al Padre; y pongo mi alma por las ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.16#Tambien tengo otras ovejas que no son de este corral: aquellas tambien me conviene traer, y oirán mi voz; y se hará un corral, y un pastor.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.17#Por eso me ama el Padre, porque yo pongo mi alma, para volverla á tomar.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.18#Nadie la quita de mí, mas yo la pongo de mí mismo: [porque] tengo poder para ponerla, y tengo poder para volverla á tomar. Este mandamiento recibí de mi Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.19#Y volvió á haber disension entre los Judíos por estas palabras.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.20#Y muchos de ellos decian: Demonio tiene, y está fuera de sí: ¿para qué le oís?
+urn:cts:greekLit:tlg0031.tlg004.reina:10.21#Decian otros: Estas palabras no son de endemoniado: ¿puede el demonio abrir los ojos de los ciegos?
+urn:cts:greekLit:tlg0031.tlg004.reina:10.22#Y se hacia la fiesta de la Dedicacion en Jerusalem, y era invierno.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.23#Y Jesus andaba en el templo por el portal de Salomón.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.24#Y rodeáronle los Judíos, y le dijeron: ¿Hasta cuándo nos quitarás la vida? si tú eres el Cristo, dínoslo abiertamente.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.25#Respondióles Jesus: Os [lo] he dicho, y no [lo] creeis: las obras que yo hago en nombre de mi Padre, estas dan testimonio de mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.26#Mas vosotros no creeis, porque no sois de mis ovejas, como os he dicho.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.27#Mis ovejas oyen mi voz, y yo las conozco, y me siguen;
+urn:cts:greekLit:tlg0031.tlg004.reina:10.28#y yo les doy vida eterna, y para siempre no perecerán, y nadie las arrebatará de mi mano.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.29#Mi Padre que me [las] dió, mayor que todos es; y nadie las puede arrebatar de la mano de mi Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.30#Yo y el Padre una cosa somos.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.31#Entonces volvieron á tomar piedras los Judíos, para apedrearle.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.32#Respondióles Jesus: Muchas buenas obras os he mostrado de mi Padre, ¿por cuál obra de ellas me apedreais?
+urn:cts:greekLit:tlg0031.tlg004.reina:10.33#Respondiéronle los Judíos, diciendo: Por la buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.34#Respondióles Jesus: ¿No está escrito en vuestra ley: Que yo dije: Dioses sois?
+urn:cts:greekLit:tlg0031.tlg004.reina:10.35#Si dijo dioses á aquellos, á los cuales fué hecha palabra de Dios, y la Escritura no puede ser quebrantada,
+urn:cts:greekLit:tlg0031.tlg004.reina:10.36#¿á mí que el Padre santificó, y envió al mundo, vosotros decís: Tú blasfemas: porque dije: Hijo de Dios soy?
+urn:cts:greekLit:tlg0031.tlg004.reina:10.37#Si no hago obras de mi Padre, no me creais.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.38#Mas si [las] hago, aunque á mí no creais, creed á las obras, para que conozcais y creais, que el Padre es en mí, y yo en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.39#Y procuraban otra vez prenderle: mas él se salió de sus manos.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.40#Y volvióse tras el Jordán, á aquel lugar donde primero habia estado bautizando Juan, y se estuvo allí.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.41#Y muchos venian á él, y decian: Que Juan á la verdad ninguna señal hizo: mas todo lo que Juan dijo de este, era verdad.
+urn:cts:greekLit:tlg0031.tlg004.reina:10.42#Y muchos creyeron allí en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.1#ESTABA entonces enfermo uno [llamado] Lázaro, de Bethania, la aldea de María y de Marta sus hermanas.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.2#Y María era la que ungió al Señor con ungüento, y limpió sus piés con sus cabellos, cuyo hermano Lázaro estaba enfermo.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.3#Enviaron pues sus hermanas á él, diciendo: Señor, hé aquí, el que amas está enfermo.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.4#Y oyéndo[lo] Jesus, dijo: Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.5#Y amaba Jesus á Marta, y á su hermana, y á Lázaro.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.6#Como oyó, pues, que estaba enfermo, entonces á la verdad se quedó dos dias en aquel lugar donde estaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.7#Luego despues de esto dijo á sus discípulos: Vamos á Judéa otra vez.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.8#Dícenle los discípulos: Rabbí, ahora procuraban los Judíos apedrearte, ¿y vas otra vez allá?
+urn:cts:greekLit:tlg0031.tlg004.reina:11.9#Respondió Jesus: ¿No tiene el dia doce horas? el que anduviere de dia, no tropieza, porque ve la luz de este mundo:
+urn:cts:greekLit:tlg0031.tlg004.reina:11.10#mas el que anduviere de noche, tropieza, porque no hay luz en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.11#Dicho esto, díceles despues: Lázaro nuestro amigo duerme: mas voy á despertarle del sueño.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.12#Dijéronle entonces sus discípulos: Señor, si duerme, salvo estará.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.13#Mas esto decia Jesus de la muerte de él: y ellos pensaron que hablaba de sueño de dormir.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.14#Entonces pues Jesus les dijo claramente: Lázaro es muerto;
+urn:cts:greekLit:tlg0031.tlg004.reina:11.15#y huélgome por vosotros, que yo no haya estado allí, porque creais: mas vamos á él.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.16#Dijo entonces Tomás, el que se dice el Dídimo, á los condiscípulos: Vamos tambien nosotros, para que muramos con él.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.17#Vino pues Jesus, y hallóle, que habia cuatro dias [que estaba] en el sepulcro.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.18#Y Bethania estaba cerca de Jerusalem como quince estadios.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.19#Y muchos de los Judíos habian venido á Marta y á María, á consolarlas de su hermano.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.20#Entonces Marta, como oyó que Jesus venia, le salió á recibir: mas María se estuvo en casa.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.21#Y Marta dijo á Jesus: Señor, si estuvieras aquí, mi hermano no fuera muerto:
+urn:cts:greekLit:tlg0031.tlg004.reina:11.22#mas tambien sé ahora, que todo lo que pidieres de Dios, te dará Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.23#Dícele Jesus: Resucitará tu hermano.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.24#Marta le dice: [Yo] sé que resucitará en la resurreccion en el dia postrero.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.25#Dícele Jesus: Yo soy la resurreccion y la vida: el que cree en mí, aunque esté muerto, vivirá:
+urn:cts:greekLit:tlg0031.tlg004.reina:11.26#y todo aquel que vive, y cree en mí, no morirá eternamente: ¿crees esto?
+urn:cts:greekLit:tlg0031.tlg004.reina:11.27#Dícele: Sí, Señor, yo he creido que tú eres el Cristo, el Hijo de Dios, que has venido al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.28#Y esto dicho, se fué, y llamó en secreto á María su hermana, diciendo: El Maestro está aquí, y te llama.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.29#Ella, como [lo] oyó, se levanta prestamente, y viene á él.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.30#(Que aun no habia llegado Jesus á la aldea, mas estaba en aquel lugar donde Marta le habia salido á recibir.)
+urn:cts:greekLit:tlg0031.tlg004.reina:11.31#Entonces los Judíos que estaban en casa con ella, y la consolaban, como vieron que María se habia levantado prestamente, y habia salido, la siguieron, diciendo: Que va al sepulcro á llorar allí.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.32#Mas María, como vino donde estaba Jesus. viéndole, derribóse á sus piés, diciéndole: Señor, si hubieras estado aquí, no fuera muerto mi hermano.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.33#Jesus entonces, como la vió llorando, y á los Judíos que habian venido juntamente con ella llorando, embravecióse en espíritu, y alborotóse á sí mismo,
+urn:cts:greekLit:tlg0031.tlg004.reina:11.34#y dijo: ¿^Dónde le pusisteis? Dícenle: Señor, ven, y velo.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.35#Y lloró Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.36#Dijeron entonces los Judíos: Mirad cómo le amaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.37#Y algunos de ellos dijeron: ¿No podia este, que abrió los ojos del ciego, hacer que este no muriera?
+urn:cts:greekLit:tlg0031.tlg004.reina:11.38#Y Jesus, embraveciéndose otra vez en sí mismo, vino al sepulcro donde habia una cueva, la cual tenia una piedra encima.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.39#Dice Jesus: Quitad la piedra Marta, la hermana del que habia sido; muerto, le dice: Señor, hiede ya: que es de cuatro dias.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.40#Jesus le dice: ¿No te he dicho que si creyeres, verás la gloria de Dios?
+urn:cts:greekLit:tlg0031.tlg004.reina:11.41#Entonces quitaron la piedra de donde el muerto habia sido puesto: y Jesus, alzando los ojos arriba, dijo Padre, gracias te hago que me has oido:
+urn:cts:greekLit:tlg0031.tlg004.reina:11.42#que yo sabia que siempre me oyes: mas por causa de la compañía que está al rededor [lo] dije, para que crean que tú me has enviado.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.43#Y habiendo dicho estas cosas, clamó á gran voz: Lázaro, ven fuera.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.44#Entonces el que habia sido muerto, salió, atadas las manos y los piés con vendas: y su rostro estaba envuelto en un sudario. Díceles Jesus: Desatadle, y dejadle ir.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.45#Entonces muchos de los Judíos que habian venido á María, y habian visto lo que habia hecho Jesus, creyeron en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.46#Mas algunos de ellos fueron á los Fariséos, y les dijeron lo que Jesus habia hecho.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.47#Y los pontífices, y los Fariséos juntaron concilio, y decian: ¿Qué hacemos? que este hombre hace muchas señales:
+urn:cts:greekLit:tlg0031.tlg004.reina:11.48#si le dejamos así, todos creerán en él; y vendrán los Romanos, y quitarán nuestro lugar y la nacion.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.49#Entonces Caifás, uno de ellos, sumo pontífice de aquel año, les dijo: Vosotros no sabeis nada,
+urn:cts:greekLit:tlg0031.tlg004.reina:11.50#ni pensais que nos conviene que un hombre muera por el pueblo, y no que toda la nacion se pierda.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.51#Mas esto no lo dijo de sí mismo: sino que, como era el sumo pontífice de aquel año, profetizó que Jesus habia de morir por la nacion;
+urn:cts:greekLit:tlg0031.tlg004.reina:11.52#y no solamente por aquella nacion, mas tambien para que juntase en uno los hijos de Dios que estaban derramados.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.53#Así que desde aquel dia consultaban juntos de matarle.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.54#De manera que Jesus ya no andaba manifiestamente entre los Judíos: mas se fué de allí á la tierra que está junto al desierto, á una ciudad que se llama Ephraim: y estábase allí con sus discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.55#Y la Pascua de los Judíos estaba cerca; y muchos de la tierra subieron á Jerusalem antes de la Pascua para purificarse.
+urn:cts:greekLit:tlg0031.tlg004.reina:11.56#Y buscaban á Jesus, y hablaban los unos con los otros estando en el templo: ¿Qué os parece, que no vendrá al dia de la fiesta?
+urn:cts:greekLit:tlg0031.tlg004.reina:11.57#Y los pontífices y los Fariséos habian dado mandamiento, que si alguno supiese donde estuviera, que lo manifestase, para que le prendiesen.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.1#JESUS, pues, seis dias antes de la Pascua vino á Bethania, donde Lázaro habia sido muerto, al cual [Jesus] habia resucitado de los muertos.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.2#E hiciéronle allí una cena, y Marta servia; y Lázaro era uno de los que estaban sentados á la mesa juntamente con él.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.3#Entonces María tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los piés de Jesus, y limpió sus piés con sus cabellos; y la casa se llenó del olor del ungüento.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.4#Y dijo uno de sus discípulos, Judas Iscariote, [hijo] de Simon, el que le habia de entregar:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.5#¿Por qué no se ha vendido este ungüento por trescientos dineros, y se dió á los pobres?
+urn:cts:greekLit:tlg0031.tlg004.reina:12.6#Mas dijo esto, no por el cuidado que él tenia de los pobres: mas porque era ladron; y tenia la bolsa, y traia lo que se echaba [en ella.]
+urn:cts:greekLit:tlg0031.tlg004.reina:12.7#Entonces Jesus dijo: Déjala: para el dia de mi sepultura ha guardado esto:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.8#porque á los pobres siempre los tendreis con vosotros, mas á mí no siempre me tendreis.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.9#Entonces mucha compañía de los Judíos entendió que él estaba allí y vinieron no solamente por causa de Jesus, mas tambien por ver á Lázaro al cual habia resucitado de los muertos.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.10#Consultaron asimismo los príncipes de los sacerdotes, de matar tambien á Lázaro:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.11#porque muchos de los Judíos iban y creian en Jesus por causa de él.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.12#El siguiente dia mucha compañía que habia venido al dia de la fiesta, como oyeron que Jesus venia á Jerusalem,
+urn:cts:greekLit:tlg0031.tlg004.reina:12.13#tomaron ramos de palmas, y saliéronle á recibir, y clamaban: Hosanna: Bendito el que viene en el nombre del Señor, el Rey de Israél.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.14#Y halló Jesus un asnillo, y se sentó sobre él, como está escrito:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.15#No temas, ¡oh hija de Sión! hé aquí, tu Rey viene asentado sobre una pollina de una asna.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.16#Mas estas cosas no las entendieron sus discípulos primero: empero cuando Jesus fué glorificado, entonces se acordaron que estas cosas estaban escritas de él, y que le hicieron estas cosas.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.17#Y la compañía que estaba con él, daba testimonio de cuando llamó á Lázaro del sepulcro, y le resucitó de los muertos.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.18#Por lo cual tambien habian venido las compañías á recibirle: porque habian oido que él habia hecho esta señal.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.19#Mas los Fariséos dijeron entre sí: ¿Veis que nada aprovechais? hé aquí, que el mundo se va tras él.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.20#Y habia ciertos Griegos de los que habian subido á adorar en el dia de la fiesta.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.21#Estos, pues, se llegaron á Felipe, que era de Bethsaida de Galiléa, y le rogaron, diciendo: Señor, querriamos ver á Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.22#Vino Felipe, y lo dijo á Andres: Andres entonces, y Felipe, lo dicen á Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.23#Entonces Jesus les respondió, diciendo: La hora viene en que el Hijo del hombre ha de ser glorificado.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.24#De cierto, de cierto os digo, que si el grano que cae en la tierra, no muriere, él solo queda: mas si muriere, mucho fruto lleva.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.25#El que ama su vida, la perderá; y el que aborrece su vida en este mundo, para vida eterna la guardará.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.26#El que me sirve, sígame: y donde yo estuviere, allí tambien estará mi servidor. El que me sirviere, mi Padre le honrará.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.27#Ahora es turbada mi alma: ¿y que diré? Padre, sálvame de esta hora: mas por esto he venido en esta hora.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.28#Padre, glorifica tu nombre. Entonces vino una voz del cielo: Y he glorificado, y le glorificaré otra vez.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.29#Y la compañía que estaba presente, y [la] habia oido, decia que habia sido trueno: otros decian: Angel le ha hablado.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.30#Respondió Jesus, y dijo: No ha venido esta voz por mi causa, mas por causa de vosotros:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.31#ahora es el juicio de este mundo: ahora el príncipe de este mundo será echado fuera:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.32#y yo, si fuere levantado de la tierra, á todos traeré á mi mismo.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.33#Y esto decia dando á entender de que muerte habia de morir.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.34#Respondióle la compañía: Nosotros hemos oido de la ley, que el Cristo permanece para siempre: ¿cómo pues dices tú: Conviene que el Hijo del hombre sea levantado? ¿quién es este Hijo del hombre?
+urn:cts:greekLit:tlg0031.tlg004.reina:12.35#Entonces Jesus les dice: Aun por un poco estará la luz entre vosotros: andad entre tanto que teneis luz, porque no os sorprendan las tinieblas: porque el que anda en tinieblas, no sabe donde va:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.36#entre tanto que teneis la luz, creed en la luz, para que seais hijos de luz. Estas cosas habló Jesus, y se fué, y se escondió de ellos.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.37#Empero habiendo hecho delante de ellos tantas señales, no creian en él:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.38#para que se cumpliese el dicho que dijo el profeta Isaías: ¿Señor, quién creerá á nuestro dicho? ¿y el brazo del Señor, á quién es revelado?
+urn:cts:greekLit:tlg0031.tlg004.reina:12.39#Por esto no podian creer, porque otra vez dijo Isaías:
+urn:cts:greekLit:tlg0031.tlg004.reina:12.40#Cegó los ojos de ellos, y endureció su corazon: porque no vean de los ojos, y entiendan de corazon, y se conviertan y [yo] los sane.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.41#Estas cosas dijo Isaías, cuando vió su gloria, y habló de él.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.42#Con todo eso aun de los príncipes muchos creyeron en el: mas por causa de los Fariséos no confesaban, por no ser echados de la sinagoga.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.43#Porque amaban mas la gloria de los hombres que la gloria de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.44#Mas Jesus clamó, y dijo: El que cree en mí, no cree en mí, sino en aquel que me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.45#Y el que me ve, ve al que me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.46#Yo la luz he venido al mundo, para que todo aquel que cree en mí, no permanezca en tinieblas.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.47#Y el que oyere mis palabras, y no creyere, yo no le juzgo: porque no he venido á juzgar al mundo, sino á salvar al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.48#El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el dia postrero.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.49#Porque yo no he hablado de mí mismo: mas el Padre que me envió, él me dió mandamiento de lo que tengo de decir, y de lo que tengo de hablar.
+urn:cts:greekLit:tlg0031.tlg004.reina:12.50#Y sé que su mandamiento es vida eterna: así que lo que yo hablo, como el Padre me lo ha dicho, así hablo.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.1#ANTES del dia de la fiesta de la Pascua, sabiendo Jesus que su hora era venida para que pasase de este mundo al Padre, como habia amado á los suyos que estaban en el mundo, los amó hasta el fin.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.2#Y la cena acabada, como el diablo ya habia metido en el corazon de Judas de Simon Iscariote, para que le entregase:
+urn:cts:greekLit:tlg0031.tlg004.reina:13.3#sabiendo Jesus que el Padre le habia dado todas las cosas en las manos, y que habia salido de Dios, y á Dios iba:
+urn:cts:greekLit:tlg0031.tlg004.reina:13.4#levántase de la cena, y se quita su ropa, y tomando una toalla, se ciñó.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.5#Luego puso agua en un lebrillo, y comenzó á lavar los piés de los discípulos, y á limpiarlos con la toalla con que estaba ceñido.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.6#Vino pues á Simon Pedro; y Pedro le dice: ¿Señor, tú me lavas los piés?
+urn:cts:greekLit:tlg0031.tlg004.reina:13.7#Respondió Jesus, y le dijo: Lo que yo hago, tú no lo sabes ahora: mas lo sabrás despues.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.8#Dícele Pedro: No me lavarás los piés jamás. Respondióle Jesus: Si no te lavare, no tendrás parte conmigo.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.9#Dícele Simon Pedro: Señor, no solo mis piés, mas aun las manos, y la cabeza.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.10#Dícele Jesus: El que está lavado, no ha menester sino que lave los piés, mas es todo limpio: y vosotros limpios sois, aunque no todos.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.11#Porque sabia quien era el que le entregaba: por eso dijo: No sois limpios todos.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.12#Así que, despues que le hubo lavado los piés, y tomado su ropa, volviéndose á asentar á la mesa, les dijo: ¿Sabeis lo que os he hecho?
+urn:cts:greekLit:tlg0031.tlg004.reina:13.13#Vosotros me llamais Maestro y Señor; y decís bien: porque lo soy:
+urn:cts:greekLit:tlg0031.tlg004.reina:13.14#pues si yo, el Señor y el Maestro, he lavado vuestros piés, vosotros tambien debeis lavar los piés los unos á los otros.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.15#Porque ejemplo os he dado, para que como yo os he hecho, vosotros tambien hagais.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.16#De cierto, dé cierto os digo: El siervo no es mayor que su Señor: ni el apóstol es mayor que el que le envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.17#Si sabeis estas cosas, bienaventurados sereis si las hiciéreis.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.18#No hablo de todos vosotros: yo sé los que he elegido: mas para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su calcañar.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.19#Desde ahora os lo digo, antes que se haga, para que cuando se hiciere, creais que yo soy.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.20#De cierto, de cierto os digo, [que] el que recibe al que yo enviare, á mí recibe; y el que á mí recibe, recibe al que me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.21#Como hubo dicho esto Jesus, fué conmovido en el espíritu, y protestó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.22#Entonces los discípulos mirábanse los unos á los otros, dudando de quién decia.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.23#Y uno de sus discípulos, al cual Jesus amaba, estaba asentado á la mesa al lado de Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.24#A este pues hizo señas Simon Pedro, para que preguntase quién era aquel de quien decia.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.25#El entonces recostándose sobre el pecho de Jesus, le dice: ¿Señor, quién es?
+urn:cts:greekLit:tlg0031.tlg004.reina:13.26#Respondió Jesus: Aquel es, á quien yo diere el pan mojado: y mojando el pan, dióle á Judas de Simon Iscariote.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.27#Y tras el bocado Satanás entró en él. Entonces Jesus le dice: Lo que haces, hazlo mas presto.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.28#Mas esto ninguno de los que estaban á la mesa entendió á qué propósito se lo dijo.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.29#Porque los unos pensaban, porque Judas tenia la bolsa, que Jesus le decia: Compra las cosas que nos son necesarias para el dia de la fiesta: ó que diese algo á los pobres.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.30#Como él pues hubo tomado el bocado, luego salió; y era [ya] noche.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.31#Entonces como [él] salió, dijo Jesus: Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.32#Si Dios es glorificado en él, Dios tambien le glorificará en sí mismo; y luego le glorificará.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.33#Hijitos, aun un poco estoy con vosotros. Me buscareis: mas, como dije á los Judíos: Donde yo voy, vosotros no podeis venir: y ahora os lo digo.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.34#Un mandamiento nuevo os doy: Que os ameis los unos á los otros: como os amé, que tambien [os] ameis los unos á los otros.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.35#En esto conocerán todos que sois mis discípulos, si tuviéreis amor los unos con los otros.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.36#Dícele Simon Pedro: ¿Señor, á dónde vas? Respondióle Jesus: Donde yo voy, no me puedes ahora seguir: mas [me] seguirás despues.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.37#Dícele Pedro: ¿Señor, por qué no te puedo seguir ahora? mi alma pondré por tí.
+urn:cts:greekLit:tlg0031.tlg004.reina:13.38#Respondióle Jesus: ¿Tu alma pondrás por mí? de cierto, de cierto te digo, [que] no cantará el gallo, que no me hayas negado tres veces.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.1#NO se turbe vuestro corazon: creeis en Dios, creed tambien en mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.2#En la casa de mi Padre muchas moradas hay: de otra manera, os lo diria: porque voy á aparejaros el lugar.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.3#Y si me fuere, y os aparejare el lugar, vendré otra vez, y os tomaré á mí mismo, para que donde yo estoy, vosotros tambien esteis.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.4#Así que sabeis donde yo voy, y el camino sabeis.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.5#Dícele Tomás: Señor, no sabemos donde vas: ¿cómo pues podemos saber el camino?
+urn:cts:greekLit:tlg0031.tlg004.reina:14.6#Jesus le dice: Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí:
+urn:cts:greekLit:tlg0031.tlg004.reina:14.7#si me conoceis, tambien á mi Padre conoceriais: y desde ahora le conoceis, y le habeis visto.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.8#Dícele Felipe: Señor, muéstranos el Padre, y nos basta.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.9#Jesus le dice: ¿Tanto tiempo [ha que] estoy con vosotros, y no me habeis conocido? Felipe, el que me ha visto, ha visto al Padre: ¿cómo pues dices tú: Muéstranos el Padre?
+urn:cts:greekLit:tlg0031.tlg004.reina:14.10#¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no [las] hablo de mí mismo: mas el Padre que está en mí, él hace las obras.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.11#Creedme que yo soy en el Padre, y el Padre en mí: de otra manera creedme por las mismas obras.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.12#De cierto, de cierto os digo, [que] el que en mí cree, las obras que yo hago tambien él [las] hará, y mayores que estas hará: porque yo voy al Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.13#Y todo lo que pidiéreis al Padre en mi nombre, esto haré: para que el Padre sea glorificado en el Hijo.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.14#Si algo pidiéreis en mi nombre, esto haré.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.15#Si me amais, guardad mis mandamientos.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.16#Y yo rogaré al Padre, el cual os dará otro Consolador para que esté con vosotros para siempre:
+urn:cts:greekLit:tlg0031.tlg004.reina:14.17#al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conoceis, porque está con vosotros, y será en vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.18#No os dejaré huérfanos: vendré á vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.19#Aun un poquito, y el mundo no me verá mas: empero vosotros me vereis, porque yo vivo, y vosotros vivireis.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.20#Aquel dia vosotros conocereis que yo soy en mi Padre, y vosotros en mí, y yo en vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.21#El que tiene mis mandamientos, y los guarda, aquel es el que me ama: y el que me ama, será amado de mi Padre; y yo le amaré á él, y me manifestaré á él
+urn:cts:greekLit:tlg0031.tlg004.reina:14.22#Dícele Judas, no el Iscariote: ¿Señor, qué hay porque te has de manifestar á nosotros, y no al mundo?
+urn:cts:greekLit:tlg0031.tlg004.reina:14.23#Respondió Jesus, y le dijo: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos á él, y haremos con él morada.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.24#El que no me ama, no guarda mis palabras: y la palabra que habeis oido, no es mia, sino del Padre que me envió.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.25#Estas cosas os he hablado estando con vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.26#Mas aquel Consolador, el Espíritu Santo, al cual el Padre enviará en mi nombre, aquel os enseñará todas las cosas, y os acordará todas las cosas que os he dicho.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.27#La paz os dejo: mi paz os doy: no como el mundo [la] da, yo os [la] doy: no se turbe vuestro corazon, ni tenga miedo.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.28#Habeis oido como yo os he dicho: Voy, y vengo á vosotros. Si me amáseis, ciertamente os gozariais, porque he dicho que voy al Padre: porque el Padre mayor es que yo.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.29#Y ahora os [lo] he dicho antes que se haga, para que cuando se hiciere, creais.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.30#Ya no hablaré mucho con vosotros: porque viene el príncipe de este mundo, mas no tiene nada en mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:14.31#Empero para que conozca el mundo que amo al Padre, y como el Padre me dió el mandamiento, así hago. Levantáos, vamos de aquí.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.1#YO soy la vid verdadera, y mi Padre es el Labrador.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.2#Todo pámpano que en mí no lleva fruto, le quitará; y todo aquel que lleva fruto, le limpiará, para que lleve mas fruto.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.3#Ya vosotros sois limpios por la palabra que os he hablado.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.4#Estad en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de si mismo, si no estuviere en la vid, así ni vosotros, si no estuviéreis en mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.5#Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, este lleva mucho fruto, porque sin mí nada podeis hacer.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.6#El que en mí no estuviere, será echado fuera como [mal] pámpano, y se secará; y los cogen, y los echan en el fuego, y arden.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.7#Si estuviéreis en mí, y mis palabras estuvieren en vosotros, todo lo que quisiéreis, pedireis, y os será hecho.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.8#En esto es glorificado mi Padre, [en] que lleveis mucho fruto, y seais mis discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.9#Como el Padre me amó, tambien yo os he amado: estad en mi amor.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.10#Si guardáreis mis mandamientos, estareis en mi amor: como yo tambien he guardado los mandamientos de mi Padre, y estoy en su amor.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.11#Estas cosas os he hablado, para que mi gozo esté en vosotros, y vuestro gozo sea cumplido.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.12#Este es mi mandamiento: Que os ameis los unos á los otros, como [yo] os amé.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.13#Nadie tiene mayor amor que este, que ponga alguno su alma por sus amigos.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.14#Vosotros sois mis amigos, si hiciéreis las cosas que yo os mando.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.15#Ya no os diré siervos, porque el siervo no sabe lo que hace su señor: mas os he dicho amigos, porque todas las cosas que oí de mi Padre os he hecho notorias.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.16#No me elegisteis vosotros [á mí;] mas yo os elegí á vosotros, y os he puesto para que vayais, y lleveis fruto; y vuestro fruto permanezca: para que todo lo que pidiéreis del Padre en mi nombre [él] os lo dé.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.17#Esto os mando: Que os ameis los unos á los otros.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.18#Si el mundo os aborrece, sabed que á mí me aborreció antes que á vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.19#Si fuérais del mundo, el mundo amaria lo que es suyo: mas porque no sois del mundo, antes yo os elegí del mundo, por eso os aborrece el mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.20#Acordáos de la palabra que yo os he dicho: No es el siervo mayor que su señor: si á mí me han perseguido, tambien á vosotros perseguirán: si han guardado mi palabra, tambien guardarán la vuestra.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.21#Mas todo esto os harán por causa de mi nombre: porque no conocen á aquel que me ha enviado.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.22#Si no hubiera venido, ni les hubiera hablado, no tuvieran pecado: mas ahora no tienen excusa de su pecado.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.23#El que me aborrece, tambien á mi Padre aborrece.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.24#Si no hubiese hecho entre ellos obras cuales ningun otro ha hecho, no tendrian pecado: mas ahora, y [las] han visto, y aborrecen á mí, y á mi Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.25#Mas para que se cumpla la palabra que está escrita en su ley: Que sin causa me aborrecieron.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.26#Empero cuando viniere aquel Consolador, el cual yo os enviaré del Padre, el Espíritu de verdad, el cual precede del Padre, él dará testimonio de mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:15.27#Y vosotros dareis testimonio, porque estais conmigo desde el principio.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.1#ESTAS cosas os he hablado, para que no os escandaliceis.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.2#Os echarán de las sinagogas: antes la hora viene, cuando cualquiera que os matare, pensará que hace servicio á Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.3#Y estas cosas os harán, porque no conocen al Padre, ni á mí.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.4#Mas os he dicho esto, para que cuando aquella hora viniere, os acordeis de ello, que yo os lo habia dicho: esto empero no os lo dije al principio, porque [yo] estaba con vosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.5#Mas ahora voy al que me envió; y ninguno de vosotros me pregunta: ¿Dónde vas?
+urn:cts:greekLit:tlg0031.tlg004.reina:16.6#Antes, porque os he hablado estas cosas, tristeza ha llenado vuestro corazon.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.7#Empero yo os digo la verdad, que os es necesario que yo vaya: porque si yo no fuese, el Consolador no vendria á vosotros: mas si [yo] fuere, os le enviaré.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.8#Y cuando él viniere, redargüirá al mundo de pecado, y de justicia, y de juicio.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.9#De pecado ciertamente, por cuanto no creen en mí:
+urn:cts:greekLit:tlg0031.tlg004.reina:16.10#y de justicia, por cuanto voy al Padre, y no me vereis mas:
+urn:cts:greekLit:tlg0031.tlg004.reina:16.11#mas de juicio, por cuanto el príncipe de este mundo ya es juzgado.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.12#Aun tengo muchas cosas que deciros, mas ahora no [las] podeis llevar.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.13#Mas cuando viniere aquel Espíritu de verdad, [él] os guiará á toda verdad: porque no hablará de sí mismo, mas todo lo que oyere hablará; y las cosas que han de venir os hará saber.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.14#El me glorificará, porque tomará de mio, y os [lo] hará saber.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.15#Todo lo que tiene el Padre, mio es: por eso dije que tomará de mio, y os [lo] hará saber.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.16#Un poquito, y no me vereis; y otra vez un poquito, y me vereis: porque yo voy al Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.17#Entonces dijeron [algunos] de sus discípulos unos á otros: ¿Qué es esto que nos dice: Un poquito, y no me vereis; y otra vez, un poquito, y me vereis: porque yo voy al Padre?
+urn:cts:greekLit:tlg0031.tlg004.reina:16.18#Así que decian: ¿Qué es esto que dice: Un poquito? no entendemos lo que habla.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.19#Y conoció Jesus que le querian preguntar, y les dijo: ¿Preguntais entre vosotros de esto que dije: Un poquito, y no me vereis; y otra vez, un poquito, y me vereis?
+urn:cts:greekLit:tlg0031.tlg004.reina:16.20#De cierto, de cierto os digo, que vosotros llorareis y lamentareis, y el mundo se alegrará: vosotros empero sereis tristes, mas vuestra tristeza será vuelta en gozo.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.21#La mujer cuando pare, tiene dolor, porque es venida su hora: mas despues que ha parido un niño, ya no se acuerda de la apretura por el gozo de que haya nacido un hombre en el mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.22#Tambien pues vosotros ahora á la verdad teneis tristeza: mas otra vez os veré, y se gozará vuestro corazon, y nadie quitará de vosotros vuestro gozo.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.23#Y aquel dia no me preguntareis nada. De cierto, de cierto os digo, que todo cuanto pidiéreis á [mi] Padre en mi nombre, os [lo] dará.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.24#Hasta ahora nada habeis pedido en mi nombre: pedid, y recibireis, para que vuestro gozo sea cumplido.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.25#Estas cosas os he hablado en proverbios: la hora viene cuando ya no os hablaré por proverbios, mas claramente os anunciaré de mi Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.26#Aquel dia pedireis en mi nombre, y no os digo que yo rogaré al Padre por vosotros:
+urn:cts:greekLit:tlg0031.tlg004.reina:16.27#porque el mismo Padre os ama, por cuanto vosotros me amasteis, y habeis creido que yo salí de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.28#Salí del Padre, y he venido al mundo: otra vez dejo el mundo, y voy al Padre.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.29#Dícenle sus discípulos: Hé aquí, ahora hablas claramente, y ningun proverbio dices.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.30#Ahora entendemos que sabes todas las cosas, y no has menester que nadie te pregunte: en esto creemos que has salido de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.31#Respondióles Jesus: ¿Ahora creeis?
+urn:cts:greekLit:tlg0031.tlg004.reina:16.32#Hé aquí la hora viene, y ya es venida, que sereis esparcidos cada uno por su cabo, y me dejareis solo: mas no estoy solo, porque el Padre está conmigo.
+urn:cts:greekLit:tlg0031.tlg004.reina:16.33#Estas cosas os he hablado para que en mí tengais paz: en el mundo tendreis apretura: mas confiad, yo he vencido al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.1#ESTAS cosas habló Jesus, y levantados los ojos al cielo, dijo: Padre, la hora viene, glorifica á tu Hijo, para que tambien tu Hijo te glorifique á tí.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.2#como le has dado la potestad de toda carne, para que á todos los que le diste, les dé vida eterna.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.3#Esta empero es la vida eterna, que te conozcan solo Dios verdadero, y al que enviaste, Jesu Cristo.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.4#Yo te he glorificado en la tierra, he acabado la obra que me diste que hiciese.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.5#Ahora pues, Padre, glorifícame tú acerca de tí mismo de aquella gloria que tuve acerca de tí antes que este mundo fuese.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.6#He manifestado tu nombre á los hombres que del mundo me diste: tuyos eran, y me los diste, y guardaron tu palabra.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.7#Ahora han [ya] conocido que todas las cosas que me diste, son de tí.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.8#Porque las palabras que me diste, les he enseñado; y ellos [las] recibieron, y han conocido verdaderamente que salí de tí, y han creido que tú me enviaste.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.9#Yo ruego por ellos: no ruego por el mundo, sino por los que me diste, porque tuyos son.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.10#Y todas mis cosas son tus cosas, y tus cosas son mis cosas: y he sido glorificado en ellas.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.11#Y ya no estoy en el mundo: mas estos están en el mundo, que yo á tí vengo. Padre santo, guárdalos por tu nombre; á los cuales me has dado, para que sean una cosa, como tambien nosotros.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.12#Cuando [yo] estaba con ellos en el mundo, yo los guardaba por tu nombre, á los cuales me diste: yo los guardé, y ninguno de ellos se perdió sino el hijo de perdicion, para que la Escritura se cumpliese.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.13#Mas ahora vengo á tí, y hablo esto en el mundo, para que tengan gozo cumplido en sí mismos.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.14#Yo les enseñé tu palabra, y el mundo los aborreció: porque no son del mundo, como tampoco yo soy del mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.15#No ruego que los quites del mundo, sino que los guardes del mal.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.16#No son del mundo, como tampoco yo soy del mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.17#Santifícalos con tu verdad: tu palabra es la verdad.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.18#Como tú me enviaste al mundo, tambien yo los he enviado al mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.19#Y por ellos yo me santifico á mí mismo, para que tambien ellos sean santificados con verdad.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.20#Mas no ruego solamente por ellos; sino tambien por los que han de creer en mí por la palabra de ellos.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.21#Para que todos sean una cosa: como tú, ¡oh Padre! en mí, y yo en tí; que tambien ellos en nosotros sean una cosa: para que el mundo crea que tú me enviaste.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.22#Y yo la gloria que me diste, les he dado: para que sean una cosa, como tambien nosotros somos una cosa:
+urn:cts:greekLit:tlg0031.tlg004.reina:17.23#yo en ellos, y tú en mí, para que sean consumadamente una cosa, y que el mundo conozca que tú me enviaste, y que los has amado, como tambien á mí me has amado.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.24#Padre, aquellos que me has dado, quiero que donde yo estoy, ellos esten tambien conmigo: para que vean mi gloria que me has dado, por cuanto me has amado desde antes de la constitucion del mundo.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.25#Padre justo, el mundo no te ha conocido: mas yo te he conocido; y estos han conocido que tú me enviaste.
+urn:cts:greekLit:tlg0031.tlg004.reina:17.26#Y yo les hice notorio tu nombre, y [le] haré notorio: para que el amor, con que me has amado, esté en ellos, y yo en ellos.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.1#COMO Jesus hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró Jesus, y sus discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.2#Y tambien Judas, el que le entregaba, sabia aquel lugar, porque muchas veces Jesus se juntaba allí con sus discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.3#Judas pues tomando una compañía [de soldados,] y criados de los pontífices y de los Fariséos, vino allí con linternas y antorchas, y con armas.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.4#Empero Jesus, sabiendo todas las cosas que habian de venir sobre él, salió delante, y les dijo: ¿A quién buscais?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.5#Respondiéronle: A Jesus Nazareno. Díceles Jesus: Yo soy. Y estaba tambien con ellos Judas el que le entregaba.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.6#Y como les dijo: Yo soy: volvieron atrás, y cayeron en tierra.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.7#Volvióles pues á preguntar: ¿A quién buscais? Y ellos dijeron: A Jesus Nazareno.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.8#Respondió Jesus: [Ya] os he dicho que yo soy: pues si á mí buscais, dejad ir á estos:
+urn:cts:greekLit:tlg0031.tlg004.reina:18.9#para que se cumpliese la palabra que habia dicho: Que los que me diste, ninguno de ellos perdí.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.10#Entonces Simon Pedro, que tenia cuchillo, le sacó, é hirió á un siervo del pontífice, y le cortó la oreja derecha; y el siervo se llamaba Malco.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.11#Jesus entonces dijo á Pedro: Mete tu cuchillo en la vaina: ¿el vaso que el Padre me ha dado, no le tengo de beber?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.12#Entonces la compañía [de los soldados,] y el tribuno, y los servidores de los Judíos prendieron á Jesus, y le ataron.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.13#Y le trajeron primeramente á Annás, porque era suegro de Caifás, el cual era pontífice de aquel año.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.14#Y era Caifás el que habia dado el consejo á los Judíos, que era necesario que un hombre muriese por el pueblo.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.15#Y seguia á Jesus Simon Pedro, y otro discípulo; y aquel discípulo era conocido del pontífice, y entró con Jesus al patio del pontífice.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.16#Mas Pedro estaba fuera á la puerta: y salió aquel discípulo que era conocido del pontífice, y habló á la portera, y metió dentro á Pedro.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.17#Entonces la criada portera dijo á Pedro: ¿No eres tú tambien de los discípulos de este hombre? Dice él: No soy.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.18#Y estaban en pié los siervos y los criados que habian allegado las ascuas, porque hacia frio, y se calentaban: y estaba tambien con ellos Pedro en pié calentándose.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.19#Y el pontífice preguntó á Jesus de sus discípulos, y de su doctrina.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.20#Jesus le respondió: Yo manifiestamente he hablado al mundo: yo siempre he enseñado en la sinagoga, y en el templo, donde se juntan todos los Judíos; y nada he hablado en oculto:
+urn:cts:greekLit:tlg0031.tlg004.reina:18.21#¿qué me preguntas á mí? pregunta á los que han oido, qué les haya [yo] hablado: hé aquí, estos saben lo que yo he dicho.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.22#Y como él hubo dicho esto, uno de los criados que estaba allí, dió una bofetada á Jesus, diciendo: ¿Así respondes al pontífice?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.23#Respondióle Jesus: Si he hablado mal, da testimonio del mal: y si bien, ¿por qué me hieres?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.24#Así le envió Annás atado á Caifás pontífice.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.25#Estaba pues Pedro en pié calentándose: y le dijeron: ¿ No eres tú de sus discípulos? El negó, y dijo: No soy.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.26#Uno de los siervos del pontífice, pariente de aquel á quien Pedro habia cortado la oreja, le dice: ¿No te ví yo en el huerto con él?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.27#Y negó Pedro otra vez; y luego el gallo cantó.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.28#Y llevan á Jesus de Caifás á la audiencia: y era por la mañana; y ellos no entraron en la audiencia por no ser contaminados, mas que comiesen [el cordero de] la Pascua.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.29#Entonces salió Pilato á ellos fuera, y dijo: ¿Qué acusacion traeis contra este hombre?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.30#Respondieron, y le dijeron: Si este no fuera malhechor, no te le hubiéramos entregado.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.31#Díceles entonces Pilato: Tomádle vosotros, y juzgádle segun vuestra ley. Y los Judíos le dijeron: A nosotros no es lícito matar á nadie.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.32#Para que se cumpliese el dicho de Jesus que habia dicho, dando á entender de que muerte habia de morir.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.33#Así que Pilato volvióse á entrar en la audiencia, y llamó á Jesus, y le dijo: ¿Eres tú el Rey de los Judíos?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.34#Respondióle Jesus: ¿Dices tú esto de tí mismo, ó te lo han dicho otros de mí?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.35#Pilato respondió: ¿Soy yo Judío? tu gente, y los pontífices, te han entregado á mí: ¿qué has hecho?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.36#Respondió Jesus: Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearian para que [yo] no fuera entregado á los Judíos: ahora pues mi reino no es de aquí.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.37#Díjole entonces Pilato: ¿Luego rey eres tú? Respondió Jesus: Tú dices que yo soy rey: yo para esto soy nacido, y para esto he venido al mundo, [es á saber,] para dar testimonio á la verdad: todo aquel que es [de la parte] de la verdad, oye mi voz.
+urn:cts:greekLit:tlg0031.tlg004.reina:18.38#Dícele Pilato: ¿Qué cosa es verdad? Y como hubo dicho esto, volvió á los Judíos, y les dice: Yo no hallo en él algun crímen:
+urn:cts:greekLit:tlg0031.tlg004.reina:18.39#empero vosotros teneis costumbre, que [yo] os suelte uno en la Pascua: ¿quereis pues que os suelte al rey de los Judíos?
+urn:cts:greekLit:tlg0031.tlg004.reina:18.40#Entonces todos dieron voces otra vez, diciendo: No á este, sino á Barrabás. Y este Barrabás era ladron.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.1#ASÍ que entonces tomó Pilato á Jesus, y le azotó.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.2#Y los soldados entretejieron de espinas una corona, y la pusieron sobre su cabeza, y le vistieron de una ropa de grana,
+urn:cts:greekLit:tlg0031.tlg004.reina:19.3#y decian: Tengas gozo, Rey de los Judíos; y le daban de bofetadas.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.4#Entonces Pilato salió otra vez fuera, y les dijo: Hé aquí, os le traigo fuera, para que entendais que ningun crímen hallo en él.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.5#Así salió Jesus fuera llevando la corona de espinas, y la ropa de grana. Y díceles [Pilato:] Hé aquí el hombre.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.6#Y como le vieron los príncipes de los sacerdotes. y los servidores, dieron voces, diciendo: Crucifícale, crucifícale. Díceles Pilato: Tomádle vosotros, y crucificadle: porque yo no hallo en él crimen.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.7#Respondiéronle los Judíos: Nosotros tenemos ley, y segun nuestra ley debe morir, porque se hizo Hijo de Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.8#Pues como Pilato oyó esta palabra, tuvo mas miedo.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.9#Y entró otra vez á la audiencia, y dijo á Jesus: ¿De dónde eres tú? Mas Jesus no le dió respuesta.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.10#Entonces dícele Pilato: ¿A mí no me hablas? ¿no sabes que tengo potestad para crucificarte, y que tengo potestad para soltarte?
+urn:cts:greekLit:tlg0031.tlg004.reina:19.11#Respondió Jesus: Ninguna potestad tendrias contra mí, si [esto] no te fuese dado de arriba: por tanto el que á tí me ha entregado, mayor pecado tiene.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.12#Desde entonces procuraba Pilato de soltarle: mas los Judíos daban voces, diciendo: Si á este sueltas, no eres amigo de César: cualquiera que se hace rey, á César contradice.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.13#Entonces Pilato oyendo este dicho, llevó fuera á Jesus, y se sentó en el tribunal, en el lugar que se dice Lithóstrotos, y en hebráico Gabbatha.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.14#Y era la víspera de la Pascua, y como á las seis horas: entonces dijo á los Judíos: Hé aquí vuestro Rey.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.15#Mas ellos dieron voces: Quita, quita, crucifícale. Díceles Pilato: ¿A vuestro Rey tengo de crucificar? Respondieron los pontífices: No tenemos rey, sino á César.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.16#Así que entonces se le entregó para que fuese crucificado: y tomaron á Jesus, y le llevaron.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.17#Y llevando la cruz para sí, vino al lugar que se dice el lugar de la Calavera, y en hebráico Gólgotha:
+urn:cts:greekLit:tlg0031.tlg004.reina:19.18#donde le crucificaron, y con él otros dos, de una parte y de otra, y Jesus en medio.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.19#Y escribió tambien Pilato un título, el cual puso encima de la cruz: y el escrito era: JESUS NAZARENO, REY DE LOS JUDÍOS.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.20#Y muchos de los Judíos leyeron este título: porque el lugar donde estaba crucificado Jesus, era cerca de la ciudad: y era escrito en hebráico, y en griego, y en latin.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.21#Y decian á Pilato los pontífices de los Judíos: No escribas: Rey de los Judíos; sino que él dijo: Rey soy de los Judíos.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.22#Respondió Pilato: Lo que he escrito, he escrito.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.23#Y como los soldados hubieron crucificado á Jesus, tomaron sus vestidos, é hicieron cuatro partes (á cada soldado una parte), y la túnica era sin costura, toda tejida desde arriba;
+urn:cts:greekLit:tlg0031.tlg004.reina:19.24#y dijeron entre ellos: No la partamos, sino echemos suertes sobre ella cuya será: para que se cumpliese la Escritura que dice: Partieron para sí mis vestidos, y sobre mi vestidura echaron suertes. Y los soldados ciertamente hicieron esto.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.25#Y estaban junto á la cruz de Jesus su madre, y la hermana de su madre, María, mujer de Cleofas, y María Magdalena.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.26#Y como vió Jesus á la madre, y al discípulo que él amaba, que estaba presente, dice á su madre: Mujer, hé ahí tu hijo.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.27#Y luego dice al discípulo: Hé ahí tu madre. Y desde aquella hora el discípulo la recibió consigo.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.28#Despues, sabiendo Jesus que todas las cosas eran ya cumplidas, para que la Escritura se cumpliese, dijo: Sed tengo.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.29#Estaba pues [allí] un vaso lleno de vinagre. Entonces ellos llenaron una esponja de vinagre, y revuelta con hisopo se la llegaron á la boca.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.30#Y como Jesus tomó el vinagre, dijo: Consumado es. Y bajada la cabeza, dió el espíritu.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.31#Entonces los Judíos, porque los cuerpos no quedasen en la cruz en el sábado, porque [entonces] era la víspera [de la Pascua,] porque era el gran dia del sábado, rogaron á Pilato que se les quebrasen las piernas, y fuesen quitados.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.32#Y vinieron los soldados, y á la verdad quebraron las piernas al primero, y al otro que habia sido crucificado con él:
+urn:cts:greekLit:tlg0031.tlg004.reina:19.33#mas como vinieron á Jesus, como le vieron ya muerto, no le quebraron las piernas.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.34#Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.35#Y el que lo vió da testimonio, y su testimonio es verdadero: y él sabe que dice verdad, para que vosotros tambien creais.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.36#Porque estas cosas fueron hechas, para que se cumpliese la Escritura: Hueso no quebrantareis de él.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.37#Y otra vez otra Escritura dice: Verán [á aquel] al cual traspasaron.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.38#Pasadas estas cosas, rogó á Pilato Joseph de Arimathéa, el cual era discípulo de Jesus, mas secreto, por miedo de los Judíos, que [él] quitaria el cuerpo de Jesus: lo cual permitió Pilato. Entonces [él] vino, y quito el cuerpo de Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.39#Entonces vino tambien Nicodemo, el que habia venido á Jesus de noche antes, trayendo un compuesto de mirra y de aloés, como cien libras.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.40#Y tomaron el cuerpo de Jesus y envolviéronle en lienzos con especias, como es costumbre de los Judíos sepultar.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.41#Y en aquel lugar, donde habia sido crucificado, habia un huerto, y en el huerto un sepulcro nuevo, en el cual aun no habia sido puesto alguno.
+urn:cts:greekLit:tlg0031.tlg004.reina:19.42#Allí pues, por causa de la víspera [de la Pascua] de los Judíos, porque aquel sepulcro estaba cerca, pusieron á Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.1#Y EL primer [dia] de los sábados, María Magdalena vino de mañana, siendo aun oscuro, al sepulcro, y vió la piedra quitada del sepulcro.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.2#Entonces corrió, y vino á Simon Pedro, y al otro discípulo, al cual amaba Jesus, y les dice: Han llevado al Señor del sepulcro, y no sabemos donde le han puesto.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.3#Y salió Pedro, y el otro discípulo, y vinieron al sepulcro.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.4#Y corrian los dos juntos: mas el otro discípulo corrió mas presto que Pedro, y vino primero al sepulcro.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.5#Y bajándose [á mirar,] vió los lienzos puestos: mas no entró.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.6#Vino pues Simon Pedro siguiéndole, y entró en el sepulcro, y vió los lienzos puestos,
+urn:cts:greekLit:tlg0031.tlg004.reina:20.7#y el sudario que habia sido [puesto] sobre su cabeza, no puesto con los lienzos, sino aparte en un lugar envuelto.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.8#Entonces pues entró tambien el otro discípulo, que habia venido primero al monumento; y vió, y creyó.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.9#Porque aun no sabian la Escritura, que era menester que él resucitase de los muertos.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.10#Y volvieron los discípulos á los suyos.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.11#Empero María estaba llorando al sepulcro fuera, y estando llorando bajóse [á mirar] el sepulcro.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.12#Y vió dos ángeles en ropas blancas que estaban sentados, el uno á la cabecera, y el otro á los piés, donde el cuerpo de Jesus habia sido puesto.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.13#Y le dijeron: ¿Mujer, por que lloras? Díceles: Han llevado á mi Señor, y no sé donde le han puesto.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.14#Y como hubo dicho esto, volvió atrás, y vió á Jesus que estaba [allí:] mas no sabia que era Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.15#Dícele Jesus: ¿Mujer, por qué lloras? ¿á quien buscas? Ella, pensando que era el hortelano, le dice: Señor, si tú le has llevado, dime donde le has puesto, y yo le llevaré.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.16#Dícele Jesus: María. Volviéndose ella, dícele: Rabboni, que quiere decir, Maestro.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.17#Dícele Jesus: No me toques: porque aun no he subido á mi Padre: mas vé á mis hermanos; y díles: Subo á mi Padre, y á vuestro Padre, á mi Dios, y á vuestro Dios.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.18#Vino María Magdalena dando las nuevas á los discípulos: Que habia visto al Señor, y estas cosas me dijo.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.19#Y como fué tarde aquel dia, el primero de los sábados, y las puertas estaban cerradas, donde los discípulos estaban juntos por miedo de los Judíos, vino Jesus: y púsose en medio, y les dijo: Paz tengais.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.20#Y como hubo dicho esto, mostróles las manos y el costado: entonces los discípulos se gozaron, viendo al Señor.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.21#Entonces díceles otra vez: Paz tengais: como me envió el Padre, así tambien yo os envio.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.22#Y como hubo dicho esto, sopló, y les dijo: Tomad el Espíritu Santo:
+urn:cts:greekLit:tlg0031.tlg004.reina:20.23#á los que soltáreis los pecados, les son sueltos: á los que los retuviéreis, serán retenidos.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.24#Empero Tomás uno de los doce, que se dice el Dídimo, no estaba con ellos cuando Jesus vino.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.25#Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.26#Y ocho dias despues estaban otra vez sus discípulos dentro, y con ellos Tomás: vino Jesus, las puertas cerradas, y se puso en medio, y dijo: Paz tengais.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.27#Luego dice á Tomás: Mete tu dedo aquí, y ve mis manos; y da acá tu mano, y méte[la] en mi costado, y no seas incrédulo, sino fiel.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.28#Entonces Tomás respondió, y le dice: Señor mio, y Dios mio.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.29#Dícele Jesus: Porque me has visto, ¡oh Tomás! creiste: bienaventurados los que no vieron, y creyeron.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.30#TAMBIEN muchas otras señales hizo Jesus en presencia de sus discípulos, que no están escritas en este libro.
+urn:cts:greekLit:tlg0031.tlg004.reina:20.31#Estas empero son escritas, para que creais que Jesus es el Cristo, Hijo de Dios; y para que creyendo, tengais vida en su nombre.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.1#DESPUES se manifestó Jesus otra vez á sus discípulos á la mar de Tiberias: y se manifestó de esta manera:
+urn:cts:greekLit:tlg0031.tlg004.reina:21.2#Estaban juntos Simon Pedro, y Tomás, que se dice el Dídimo y Nathanaél, el que era de Cana de Galiléa, y los [hijos] de Zebedéo, otros dos de sus discípulos.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.3#Díceles Simon: A pescar voy. Dícenle: Vamos nosotros tambien contigo. Fueron, y subieron luego en un navío; y aquella noche no tomaron nada.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.4#Y venida la mañana, Jesus se puso á la ribera; mas los discípulos no entendieron que era Jesus.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.5#Así que díceles: ¿Mozos, teneis algo de comer? Respondiéronle: No.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.6#Y él les dice: Echad la red á la mano derecha del navío, y hallareis. Entonces echaron, y no la podian en ninguna manera sacar, por la multitud de los peces.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.7#Dijo entonces aquel discípulo, al cual amaba Jesus, á Pedro: El Señor es. Entonces Simon Pedro, como oyó que era el Señor, ciñóse la ropa, porque estaba desnudo, y echóse á la mar.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.8#Y los otros discípulos vinieron con el navío (porque no estaban lejos de tierra, sino como doscientos codos), trayendo la red de peces.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.9#Y como descendieron á tierra, vieron ascuas puestas, y un pez encima de ellas, y pan.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.10#Díceles Jesus: Traed de los peces que tomasteis ahora.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.11#Subió Simon Pedro, y trajo la red á tierra, llena de grandes peces, ciento y cincuenta y tres: y siendo tantos, la red no se rompió.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.12#Díceles Jesus: Venid, comed. Y ninguno de los discípulos le osaba preguntar: ¿Tú, quién eres? sabiendo que era el Señor.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.13#Así que viene Jesus, y toma el pan, y dáles, y asimismo del pez.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.14#Esta [era] ya la tercera vez que Jesus se manifestó á sus discípulos, habiendo resucitado de los muertos.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.15#Pues como hubieron comido, Jesus dijo á Simon Pedro: ¿Simon, [hijo] de Jonás, me amas mas que estos? Dícele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis corderos.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.16#Vuélvele á decir la segunda vez: ¿Simon, [hijo] de Jonás, me amas? Respóndele: Si, Señor: tú sabes que te amo. Dícele: Apacienta mis ovejas.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.17#Dícele la tercera vez: ¿Simon, [hijo] de Jonás, me amas? Entristecióse Pedro de que le dijese la tercera vez: ¿Me amas? Y le dice: Señor, tú sabes todas las cosas: tú sabes que te amo. Dícele Jesus: Apacienta mis ovejas:
+urn:cts:greekLit:tlg0031.tlg004.reina:21.18#de cierto, de cierto te digo, [que] cuando eras mas mozo, te ceñias, é ibas donde querias: mas cuando ya fueres viejo, extenderás tus manos, y te ceñirá otro, y te pasará donde no querrias.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.19#Y esto dijo, dando á entender con que muerte habia de glorificar á Dios. Y dicho esto, dícele: Sígueme.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.20#Vuelto Pedro, ve á aquel discípulo, al cual amaba Jesus que seguia, el que tambien se habia recostado á su pecho en la cena, y [le] habia dicho: Señor, quién es el que te ha de entregar?
+urn:cts:greekLit:tlg0031.tlg004.reina:21.21#Así que, como Pedro vió á este, dice á Jesus: ¿Señor, y este qué?
+urn:cts:greekLit:tlg0031.tlg004.reina:21.22#Dícele Jesus: Si quiero que él quede hasta que [yo] venga, ¿qué [se te da] á tí? sígueme tú.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.23#Salió pues este dicho entre los hermanos, que aquel discípulo no habia de morir: y Jesus no le dijo: No morirá; sino: Si quiero que él quede hasta que [yo] venga, ¿qué á tí?
+urn:cts:greekLit:tlg0031.tlg004.reina:21.24#ESTE es aquel discípulo que da testimonio de estas cosas, y escribió estas cosas, y sabemos que su testimonio es verdadero.
+urn:cts:greekLit:tlg0031.tlg004.reina:21.25#Y hay tambien otras muchas cosas que hizo Jesus, que si se escribiesen cada una por sí, ni aun en el mundo pienso que cabrian los libros que se habrian de escribir. Amen.
