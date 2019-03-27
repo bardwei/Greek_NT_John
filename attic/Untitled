@@ -1,0 +1,21 @@
+html {
+	background-color: dimgray;
+	color: seashell;
+	font-family: "Eczar", serif;
+	font-variant: small-caps;
+	font-size: 30px;
+	background-image: url('IMG_0911 (1).jpg');
+	background-color: dimgray;
+	background-blend-mode: exclusion;
+	border: 1px dashed navy;
+	border-radius: 6px;
+}
+h1 {
+	color: maroon
+}
+span.cite {
+	padding-right: 0.5em;
+	color: maroon;
+	font-size: 85%;
+
+}
