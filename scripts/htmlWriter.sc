@@ -26,6 +26,34 @@ def saveString(s:String, filePath:String = "html/", fileName:String = "john.cex"
 	pw.close
 }
 
+/* Project-specific CEX Stuff */
+
+val myCexFile:String = "john.cex"
+
+lazy val lib = loadLibrary(myCexFile)
+lazy val tr = lib.textRepository.get
+lazy val johnCorpus = tr.corpus
+
+// Avoid typing lengthy URNs all the time
+def u(passage:String):CtsUrn = {
+	val baseUrl:String = "urn:cts:greekLit:tlg0031.tlg004.reina:"
+	CtsUrn(s"${baseUrl}${passage}")
+}
+
+// Quick access to the ID of a poetic book
+def whichBook(u:CtsUrn):String = {
+	if (u.passageComponent.size > 0) {
+		u.collapsePassageTo(1).passageComponent
+	} else {
+		"1–21"
+	}
+}
+
+// Getting labels for a URN
+//     note that these depend on the stuff defined above
+val groupName:String = tr.catalog.groupName(u(""))
+val workTitle:String = tr.catalog.workTitle(u(""))
+val versionLabel:String = tr.catalog.versionLabel(u(""))
 
 
 def printCorpus(c:Corpus):Unit = {
@@ -103,15 +131,84 @@ def chunkByCitation(c:Corpus, level:Int = 1):Vector[Corpus] = {
 
 
 
-def htmlTop:String = """<html><body>"""
-def htmlBottom:String = """</body></html>"""
+/* HTML stuff */
+
+var htmlTop:String = s"""<!DOCTYPE html>
+<html>
+<head>
+	<title>${groupName}: ${workTitle}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<style>
+		STYLES_GO_HERE
+	</style>
+</head>
+
+<body>
+"""
+
+var htmlBottom:String = """</body></html>"""
+
+/* Now we build the website */
 
 val bookChunks:Vector[Corpus] = chunkByCitation(johnCorpus, 1)
 
-for ( bk <- bookChunks.zipWithIndex) {
-	val bkNum:Int = bk._2 + 1
-	val c:Corpus = bk._1
-	val htmlName:String = s"book${bkNum}.html"
-	val textString:String = c.nodes.mkString("\n")
-	saveString(textString, "html/", htmlName)
+
+def buildSite:Unit = {
+	for ( bk <- bookChunks.zipWithIndex) {
+
+		// grab the chapter's id (in this case, the Book's number)
+		val bkNum:Int = bk._2 + 1
+		// grab the Corpus so it is easy to use
+		val c:Corpus = bk._1
+
+		// create a unique filename for each book
+		val htmlName:String = s"book${bkNum}.html"
+
+		/* Navigation */
+		val prevLink:String = {
+			bkNum match {
+				case n if (n == 0) => { "" }
+				case _ => { s"""<a href="book${bkNum - 1}.html">previous</a>""" }
+			}
+		}
+		val nextLink:String = {
+			bkNum match {
+				case n if (n == (bookChunks.size - 1)) => { "" }
+				case _ => { s"""<a href="book${bkNum + 1}.html">next</a>""" }
+			}
+		}
+		val nav:String = s"""<div class="nav">${prevLink} | ${nextLink}</div>"""
+		/* End Navigation */
+
+		/* Chapter Heading */
+		val bookHeader:String = s"""
+			<div class="bookHeader color1">
+				<p class="textOnColor">Chapter ${bkNum}</p>
+			</div>
+		"""
+
+		// create a container with all the CitableNodes for this chunk
+		val containerOpen:String = """<div class="text">"""
+		val containerClose:String = """</div>"""
+
+		val passages:Vector[String] = c.nodes.map( n => {
+			s"""<p><span class="cite">${n.urn.passageComponent}</span>${n.text}</p>"""
+		})
+
+		// save this chunk as an html file
+		val htmlString:String = {
+			htmlTop +
+			nav +
+			bookHeader +
+			containerOpen +
+			passages.mkString("\n") +
+			containerClose +
+			htmlBottom
+		}
+		// Write out to a file
+		saveString(htmlString, "html/", htmlName)
+	}
 }
+
+println(s"\n-------------\nUse 'buildSite' to make HTML pages\n-------------\n")

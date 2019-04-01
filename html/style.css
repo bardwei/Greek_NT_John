@@ -1,0 +1,34 @@
+html {
+	background-color: dimgray;
+	color: seashell;
+	font-size: 30px;
+	background-image: url(IMG_0886.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
+	/* border: 1px dashed navy; */
+	/* border-radius: 6px; */
+}
+body {
+	width: 60vw;
+	margin: 0px auto;
+}
+h1 {
+	font-family: 'Arbutus Slab', serif;
+	color: maroon;
+	font-size: 40px;
+	font-feature-settings: "smcp", "c2sc";
+	text-align: center;
+}
+
+p {
+	font-family: 'Eczar', serif;
+	margin: 5px 0px;
+}
+/* span.cite {
+	padding-right: 0.5em;
+	color: maroon;
+	font-size: 85%;
+
+ } */
