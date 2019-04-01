@@ -17,7 +17,7 @@ def loadLibrary(fp:String = demoLib):CiteLibrary = {
 }
 
 
-def saveString(s:String, filePath:String = "html/", fileName:String = "temp.txt"):Unit = {
+def saveString(s:String, filePath:String = "html/", fileName:String = "john.cex"):Unit = {
 	val pw = new PrintWriter(new File(filePath + fileName))
 	for (line <- s.lines){
 		pw.append(line)
@@ -56,9 +56,9 @@ val greekStr:String = "urn:cts:greekLit:tlg0031.tlg004.wh_fu:"
 
 
 // Getting labels for a URN
-tr.catalog.groupName(oneVerseInThreeVersions)
+/*tr.catalog.groupName(oneVerseInThreeVersions)
 tr.catalog.workTitle(oneVerseInThreeVersions)
-tr.catalog.versionLabel(oneVerseInThreeVersions)
+tr.catalog.versionLabel(oneVerseInThreeVersions)*/
 
 // Getting parts of the URN
 threeVersesInOneVersion.passageComponent
