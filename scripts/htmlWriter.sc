@@ -16,11 +16,8 @@ def loadLibrary(fp:String = demoLib):CiteLibrary = {
 	library
 }
 
-def loadFile(fp:String = "../iliad_alignment/iliad_pope.txt"):Vector[String] = {
-	Source.fromFile(fp).getLines.toVector
-}
 
-def saveString(s:String, filePath:String = "texts/", fileName:String = "temp.txt"):Unit = {
+def saveString(s:String, filePath:String = "html/", fileName:String = "temp.txt"):Unit = {
 	val pw = new PrintWriter(new File(filePath + fileName))
 	for (line <- s.lines){
 		pw.append(line)
@@ -55,17 +52,8 @@ val englishStr:String = "urn:cts:greekLit:tlg0031.tlg004.kjv_fu:"
 val spanishStr:String = "urn:cts:greekLit:tlg0031.tlg004.reina:"
 val greekStr:String = "urn:cts:greekLit:tlg0031.tlg004.wh_fu:"
 
-// Here's how you can easily make a new URN:
 
-val oneVerseInThreeVersions:CtsUrn = CtsUrn(johnStr + "1.1")
-val oneVerseInOneVersion:CtsUrn = CtsUrn(englishStr + "1.1")
-val threeVersesInOneVersion:CtsUrn = CtsUrn(spanishStr + "1.1-1.2")
 
-// Here's how you can grab a chunk of your library
-
-val newCorpus:Corpus = tr.corpus ~~ oneVerseInThreeVersions
-// see it with…
-printCorpus(newCorpus)
 
 // Getting labels for a URN
 tr.catalog.groupName(oneVerseInThreeVersions)
@@ -74,3 +62,56 @@ tr.catalog.versionLabel(oneVerseInThreeVersions)
 
 // Getting parts of the URN
 threeVersesInOneVersion.passageComponent
+
+lazy val lib = loadLibrary()
+lazy val tr = lib.textRepository.get
+lazy val johnCorpus = tr.corpus ~~ CtsUrn(spanishStr)
+
+// I'm lazy
+def u(passage:String):CtsUrn = {
+	val baseUrl:String = "urn:cts:greekLit:tlg0031.tlg004.reina:"
+	CtsUrn(s"${baseUrl}${passage}")
+}
+
+def whichBook(u:CtsUrn):String = {
+	if (u.passageComponent.size > 0) {
+		u.collapsePassageTo(1).passageComponent
+	} else {
+		"1–21"
+	}
+}
+
+// Chunk-by-citation
+def chunkByCitation(c:Corpus, level:Int = 1):Vector[Corpus] = {
+	// We need this, for this process only…
+	import scala.collection.mutable.LinkedHashMap
+	// we start with a Vector of CitableNodes from our corpus
+	val v1:Vector[CitableNode] = c.nodes
+	// We zipWithIndex to capture their sequence
+	val v2:Vector[(CitableNode, Int)] = v1.zipWithIndex
+	val v3:Vector[(CtsUrn, Vector[(CitableNode, Int)])] = {
+		v2.groupBy( _._1.urn.collapsePassageTo(level) ).toVector
+	}
+	val v4 = LinkedHashMap(v3.sortBy(_._2.head._2): _*)
+	val v5 = v4.mapValues(_ map (_._1)).toVector
+	val corpusVec:Vector[Corpus] = v5.map( v => {
+		val nodes:Vector[CitableNode] = v._2
+		Corpus(nodes)
+	})
+	corpusVec
+}
+
+
+
+def htmlTop:String = """<html><body>"""
+def htmlBottom:String = """</body></html>"""
+
+val bookChunks:Vector[Corpus] = chunkByCitation(johnCorpus, 1)
+
+for ( bk <- bookChunks.zipWithIndex) {
+	val bkNum:Int = bk._2 + 1
+	val c:Corpus = bk._1
+	val htmlName:String = s"book${bkNum}.html"
+	val textString:String = c.nodes.mkString("\n")
+	saveString(textString, "html/", htmlName)
+}
