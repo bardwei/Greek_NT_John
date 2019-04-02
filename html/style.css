@@ -26,7 +26,98 @@ p {
 	font-family: 'Eczar', serif;
 	margin: 5px 0px;
 }
-/* span.cite {
+
+div.text {
+  background-attachment: fixed;
+  background-position: center;
+}
+.chapter1 {
+  background-image: url(IMG_0886.jpg);
+  background-color: dimgray;
+	background-blend-mode: exclusion;
+}
+
+.chapter2 {
+  background-image: url(IMG_0886.jpg);
+
+}
+
+.chapter3 {
+  background-image: url();
+}
+
+.chapter4 {
+  background-image: url();
+}
+
+.chapter5 {
+  background-image: url();
+}
+
+.chapter6 {
+  background-image: url();
+}
+
+.chapter7 {
+  background-image: url();
+}
+
+.chapter8 {
+  background-image: url();
+}
+
+.chapter9 {
+  background-image: url();
+}
+
+.chapter10 {
+  background-image: url();
+}
+
+.chapter11 {
+  background-image: url();
+}
+
+.chapter12 {
+  background-image: url();
+}
+
+.chapter13 {
+  background-image: url();
+}
+
+.chapter14 {
+  background-image: url();
+}
+
+.chapter15 {
+  background-image: url();
+}
+
+.chapter16 {
+  background-image: url();
+}
+
+.chapter17 {
+  background-image: url();
+}
+
+.chapter18 {
+  background-image: url();
+}
+
+.chapter19 {
+  background-image: url();
+}
+
+.chapter20 {
+  background-image: url();
+}
+
+.chapter21 {
+  background-image: url();
+}
+ span.cite {
 	padding-right: 0.5em;
 	color: maroon;
 	font-size: 85%;
