@@ -137,6 +137,7 @@ var htmlTop:String = s"""<!DOCTYPE html>
 <html>
 <head>
 	<title>${groupName}: ${workTitle}</title>
+	<link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Eczar" rel="stylesheet">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<style>
@@ -168,13 +169,13 @@ def buildSite:Unit = {
 		/* Navigation */
 		val prevLink:String = {
 			bkNum match {
-				case n if (n == 0) => { "" }
+				case n if (n == 1) => { "" }
 				case _ => { s"""<a href="book${bkNum - 1}.html">previous</a>""" }
 			}
 		}
 		val nextLink:String = {
 			bkNum match {
-				case n if (n == (bookChunks.size - 1)) => { "" }
+				case n if (n == (bookChunks.size)) => { "" }
 				case _ => { s"""<a href="book${bkNum + 1}.html">next</a>""" }
 			}
 		}
@@ -183,13 +184,14 @@ def buildSite:Unit = {
 
 		/* Chapter Heading */
 		val bookHeader:String = s"""
-			<div class="bookHeader color1">
-				<p class="textOnColor">Chapter ${bkNum}</p>
+			<div style = "text-align: center; color: maroon; font-size: 2.5em"; class="bookHeader color1">
+				<p class="textOnColor">Capitulo ${bkNum}</p>
 			</div>
 		"""
 
+
 		// create a container with all the CitableNodes for this chunk
-		val containerOpen:String = """<div class="text">"""
+		val containerOpen:String = s"""<div class="text Capitulo${bkNum}">"""
 		val containerClose:String = """</div>"""
 
 		val passages:Vector[String] = c.nodes.map( n => {
@@ -204,6 +206,7 @@ def buildSite:Unit = {
 			containerOpen +
 			passages.mkString("\n") +
 			containerClose +
+			nav +
 			htmlBottom
 		}
 		// Write out to a file
