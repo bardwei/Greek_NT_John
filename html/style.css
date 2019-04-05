@@ -1,6 +1,6 @@
 html {
 	color: seashell;
-	font-size: 30px;
+	font-size: 2em;
 	/* border: 1px dashed navy; */
 	/* border-radius: 6px; */
 }
@@ -9,7 +9,7 @@ body {
 	margin: 0px auto;
 	background-attachment: fixed;
 }
-h1 {
+title {
 	font-family: 'Arbutus Slab', serif;
 	color: maroon;
 	font-size: 40px;
@@ -22,6 +22,9 @@ p {
 	margin: 5px 0px;
 }
 
+div.nav {
+	float:right
+}
 
 .Chapter1 {
   background-image: url(IMG_0886.jpg);
@@ -34,28 +37,39 @@ p {
   background-image: url(IMG_0490.jpg);
 	background-position-x: 100%;
 	background-position-y: 50%;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 
 }
 
 .Chapter3 {
   background-image: url(IMG_0374.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
+
 }
 
 .Chapter4 {
   background-image: url(IMG_0531.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter5 {
   background-image: url(IMG_0333.jpg);
 	    background-position: center;
+			background-color: dimgray;
+			background-blend-mode: exclusion;
 }
 
 .Chapter6 {
   background-image: url(IMG_0490.jpg);
 	background-position-x: 65%;
     background-position-y: center;
+		background-color: dimgray;
+		background-blend-mode: exclusion;
 }
 
 .Chapter7 {
@@ -75,30 +89,38 @@ p {
 .Chapter9 {
   background-image: url(IMG_0831.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter10 {
   background-image: url(IMG_0911.jpg);
 	background-position: center;
 	background-size: cover;
-
-
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter11 {
   background-image: url(IMG_0695.jpg);
 	background-position-x: center;
     background-position-y: 33%;
+		background-color: dimgray;
+		background-blend-mode: exclusion;
 }
 
 .Chapter12 {
   background-image: url(IMG_0565.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter13 {
   background-image: url(IMG_0574.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 
 }
 
@@ -113,22 +135,30 @@ p {
   background-image: url(IMG_0582.jpg);
 	background-position-x: center;
     background-position-y: 40%;
+		background-color: dimgray;
+		background-blend-mode: exclusion;
 }
 
 .Chapter16 {
   background-image: url(IMG_0784.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter17 {
   background-image: url(IMG_0637.jpg);
 	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter18 {
 	background-image: url(IMG_0705.jpg);
 	background-position-y: 25%;
     background-position-x: center;
+		background-color: dimgray;
+		background-blend-mode: exclusion;
 }
 
 .Chapter19 {
@@ -143,12 +173,16 @@ p {
   background-image: url(IMG_0883.jpg);
 	background-position-y: 35%;
 	background-position-x: 65%;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
 .Chapter21 {
   background-image: url(IMG_0896.jpg);
 	background-position-x: center;
 	background-position-y: 85%;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
  span.cite {
 	padding-right: 0.5em;
