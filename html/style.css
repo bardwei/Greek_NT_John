@@ -1,18 +1,13 @@
 html {
-	background-color: dimgray;
 	color: seashell;
 	font-size: 30px;
-	background-image: url(IMG_0886.jpg);
-	background-attachment: fixed;
-	background-position: center;
-	background-color: dimgray;
-	background-blend-mode: exclusion;
 	/* border: 1px dashed navy; */
 	/* border-radius: 6px; */
 }
 body {
 	width: 60vw;
 	margin: 0px auto;
+	background-attachment: fixed;
 }
 h1 {
 	font-family: 'Arbutus Slab', serif;
@@ -27,95 +22,133 @@ p {
 	margin: 5px 0px;
 }
 
-div.text {
-  background-attachment: fixed;
-  background-position: center;
-}
-.chapter1 {
+
+.Chapter1 {
   background-image: url(IMG_0886.jpg);
   background-color: dimgray;
 	background-blend-mode: exclusion;
+	background-position: center;
 }
 
-.chapter2 {
-  background-image: url(IMG_0886.jpg);
+.Chapter2 {
+  background-image: url(IMG_0490.jpg);
+	background-position-x: 100%;
+	background-position-y: 50%;
 
 }
 
-.chapter3 {
-  background-image: url();
+.Chapter3 {
+  background-image: url(IMG_0374.jpg);
+	background-position: center;
 }
 
-.chapter4 {
-  background-image: url();
+.Chapter4 {
+  background-image: url(IMG_0531.jpg);
+	background-position: center;
 }
 
-.chapter5 {
-  background-image: url();
+.Chapter5 {
+  background-image: url(IMG_0333.jpg);
+	    background-position: center;
 }
 
-.chapter6 {
-  background-image: url();
+.Chapter6 {
+  background-image: url(IMG_0490.jpg);
+	background-position-x: 65%;
+    background-position-y: center;
 }
 
-.chapter7 {
-  background-image: url();
+.Chapter7 {
+  background-image: url(IMG_0880.jpg);
+	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
-.chapter8 {
-  background-image: url();
+.Chapter8 {
+  background-image: url(IMG_0566.jpg);
+	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
-.chapter9 {
-  background-image: url();
+.Chapter9 {
+  background-image: url(IMG_0831.jpg);
+	background-position: center;
 }
 
-.chapter10 {
-  background-image: url();
+.Chapter10 {
+  background-image: url(IMG_0911.jpg);
+	background-position: center;
+	background-size: cover;
+
+
 }
 
-.chapter11 {
-  background-image: url();
+.Chapter11 {
+  background-image: url(IMG_0695.jpg);
+	background-position-x: center;
+    background-position-y: 33%;
 }
 
-.chapter12 {
-  background-image: url();
+.Chapter12 {
+  background-image: url(IMG_0565.jpg);
+	background-position: center;
 }
 
-.chapter13 {
-  background-image: url();
+.Chapter13 {
+  background-image: url(IMG_0574.jpg);
+	background-position: center;
+
 }
 
-.chapter14 {
-  background-image: url();
+.Chapter14 {
+  background-image: url(IMG_0833.jpg);
+	background-position: center;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
-.chapter15 {
-  background-image: url();
+.Chapter15 {
+  background-image: url(IMG_0582.jpg);
+	background-position-x: center;
+    background-position-y: 40%;
 }
 
-.chapter16 {
-  background-image: url();
+.Chapter16 {
+  background-image: url(IMG_0784.jpg);
+	background-position: center;
 }
 
-.chapter17 {
-  background-image: url();
+.Chapter17 {
+  background-image: url(IMG_0637.jpg);
+	background-position: center;
 }
 
-.chapter18 {
-  background-image: url();
+.Chapter18 {
+	background-image: url(IMG_0705.jpg);
+	background-position-y: 25%;
+    background-position-x: center;
 }
 
-.chapter19 {
-  background-image: url();
+.Chapter19 {
+  background-image: url(IMG_0429.jpg);
+	background-position-x: center;
+	background-position-y: 40%;
+	background-color: dimgray;
+	background-blend-mode: exclusion;
 }
 
-.chapter20 {
-  background-image: url();
+.Chapter20 {
+  background-image: url(IMG_0883.jpg);
+	background-position-y: 35%;
+	background-position-x: 65%;
 }
 
-.chapter21 {
-  background-image: url();
+.Chapter21 {
+  background-image: url(IMG_0896.jpg);
+	background-position-x: center;
+	background-position-y: 85%;
 }
  span.cite {
 	padding-right: 0.5em;
