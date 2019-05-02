@@ -18,12 +18,13 @@ title {
 }
 
 p {
-	font-family: 'Eczar', serif;
+	font-family: 'Noto Serif', serif;
 	margin: 5px 0px;
 }
 
 div.nav {
-	float:right
+	float:right;
+	font-size: .75em;
 }
 
 .Chapter1 {

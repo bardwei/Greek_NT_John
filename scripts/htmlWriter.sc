@@ -36,7 +36,7 @@ lazy val johnCorpus = tr.corpus
 
 // Avoid typing lengthy URNs all the time
 def u(passage:String):CtsUrn = {
-	val baseUrl:String = "urn:cts:greekLit:tlg0031.tlg004.reina:"
+	val baseUrl:String = "urn:cts:greekLit:tlg0031.tlg004:"
 	CtsUrn(s"${baseUrl}${passage}")
 }
 
@@ -84,9 +84,9 @@ val greekStr:String = "urn:cts:greekLit:tlg0031.tlg004.wh_fu:"
 
 
 // Getting labels for a URN
-/*tr.catalog.groupName(oneVerseInThreeVersions)
+tr.catalog.groupName(oneVerseInThreeVersions)
 tr.catalog.workTitle(oneVerseInThreeVersions)
-tr.catalog.versionLabel(oneVerseInThreeVersions)*/
+tr.catalog.versionLabel(oneVerseInThreeVersions)
 
 // Getting parts of the URN
 threeVersesInOneVersion.passageComponent
@@ -94,10 +94,12 @@ threeVersesInOneVersion.passageComponent
 lazy val lib = loadLibrary()
 lazy val tr = lib.textRepository.get
 lazy val johnCorpus = tr.corpus ~~ CtsUrn(spanishStr)
+lazy val johnCorpus1 = tr.corpus ~~ CtsUrn(greekStr)
+lazy val johnCorpus2 = tr.corpus ~~ CtsUrn(englishStr)
 
 // I'm lazy
 def u(passage:String):CtsUrn = {
-	val baseUrl:String = "urn:cts:greekLit:tlg0031.tlg004.reina:"
+	val baseUrl:String = s"""urn:cts:greekLit:tlg0031.tlg004.${versionLabel}:"""
 	CtsUrn(s"${baseUrl}${passage}")
 }
 
@@ -133,20 +135,6 @@ def chunkByCitation(c:Corpus, level:Int = 1):Vector[Corpus] = {
 
 /* HTML stuff */
 
-var htmlTop:String = s"""<!DOCTYPE html>
-<html>
-<head>
-	<title>${groupName}: ${workTitle}</title>
-	<link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Eczar" rel="stylesheet">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<style>
-		STYLES_GO_HERE
-	</style>
-</head>
-
-<body>
-"""
 
 var htmlBottom:String = """</body></html>"""
 
@@ -163,20 +151,36 @@ def buildSite:Unit = {
 		// grab the Corpus so it is easy to use
 		val c:Corpus = bk._1
 
+
+		var htmlTop:String = s"""<!DOCTYPE html>
+		<html>
+		<head>
+			<title>${groupName}: ${workTitle}</title>
+			<link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Eczar|Noto+Serif" rel="stylesheet">
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+			<link rel="stylesheet" type="text/css" href="style.css">
+			<style>
+				STYLES_GO_HERE
+			</style>
+		</head>
+
+		<body class = "Chapter${bkNum}">
+		"""
+
 		// create a unique filename for each book
-		val htmlName:String = s"book${bkNum}.html"
+		val htmlName:String = s"chapter${bkNum}.html"
 
 		/* Navigation */
 		val prevLink:String = {
 			bkNum match {
 				case n if (n == 1) => { "" }
-				case _ => { s"""<a href="book${bkNum - 1}.html">previous</a>""" }
+				case _ => { s"""<a href="chapter${bkNum - 1}.html">previous</a>""" }
 			}
 		}
 		val nextLink:String = {
 			bkNum match {
 				case n if (n == (bookChunks.size)) => { "" }
-				case _ => { s"""<a href="book${bkNum + 1}.html">next</a>""" }
+				case _ => { s"""<a href="chapter${bkNum + 1}.html">next</a>""" }
 			}
 		}
 		val nav:String = s"""<div class="nav">${prevLink} | ${nextLink}</div>"""
@@ -185,13 +189,13 @@ def buildSite:Unit = {
 		/* Chapter Heading */
 		val bookHeader:String = s"""
 			<div style = "text-align: center; color: maroon; font-size: 2.5em"; class="bookHeader color1">
-				<p class="textOnColor">Capitulo ${bkNum}</p>
+				<p class="textOnColor">Chapter ${bkNum}</p>
 			</div>
 		"""
 
 
 		// create a container with all the CitableNodes for this chunk
-		val containerOpen:String = s"""<div class="text Capitulo${bkNum}">"""
+		val containerOpen:String = s"""<div class="text">"""
 		val containerClose:String = """</div>"""
 
 		val passages:Vector[String] = c.nodes.map( n => {
