@@ -27,6 +27,14 @@ div.nav {
 	font-size: .75em;
 }
 
+.textCol {
+	font-size: 14px;
+}
+
+.textHeader {
+	color:navy;
+}
+
 .Chapter1 {
   background-image: url(IMG_0886.jpg);
   background-color: dimgray;

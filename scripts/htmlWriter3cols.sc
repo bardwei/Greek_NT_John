@@ -59,6 +59,7 @@ val greekStr:String = "urn:cts:greekLit:tlg0031.tlg004.wh_fu:"
 val englishStr:String = "urn:cts:greekLit:tlg0031.tlg004.kjv_fu:"
 val spanishStr:String = "urn:cts:greekLit:tlg0031.tlg004.reina:"
 lazy val greekCorpus = tr.corpus ~~ CtsUrn(greekStr)
+lazy val johnCorpus = tr.corpus
 
 val johnStr:String = "urn:cts:greekLit:tlg0031.tlg004:"
 
@@ -156,9 +157,26 @@ def buildSite:Unit = {
 		val containerOpen:String = s"""<div class="text">"""
 		val containerClose:String = """</div>"""
 
-		val passages:Vector[String] = c.nodes.map( n => {
-			s"""<p><span class="cite">${n.urn.passageComponent}</span>${n.text}</p>"""
-		})
+		// create a vector of three corpuses
+		val cG:Corpus = c // original Greek corpus
+		val cE:Corpus = johnCorpus ~~ CtsUrn(s"${englishStr}${bkNum}")
+		val cS:Corpus = johnCorpus ~~ CtsUrn(s"${spanishStr}${bkNum}")
+
+
+		val textVec:Vector[String] = {
+			Vector(cG, cE, cS).map( thisC => {
+					val cat:String = { 
+						"""<span class="textHeader">""" + tr.catalog.labelledVersions.filter(_.urn >= thisC.urns.head.dropPassage).head.label + "</span>"
+					}
+					val htmlDivWrapperOpen:String = """<div class="textCol">"""
+					val htmlDivWrapperClose:String = "</div>"
+					val passages:Vector[String] = thisC.nodes.map( n => {
+						s"""<p><span class="cite">${n.urn.passageComponent}</span>${n.text}</p>"""
+					})
+					Vector(htmlDivWrapperOpen, cat) ++ passages ++ Vector(htmlDivWrapperClose)	
+			}).flatten
+		}
+
 
 		// save this chunk as an html file
 		val htmlString:String = {
@@ -166,7 +184,7 @@ def buildSite:Unit = {
 			nav +
 			bookHeader +
 			containerOpen +
-			passages.mkString("\n") +
+			textVec.mkString("\n") +
 			containerClose +
 			nav +
 			htmlBottom
