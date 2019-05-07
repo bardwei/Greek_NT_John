@@ -1,38 +1,49 @@
 html {
 	color: seashell;
 	font-size: 2em;
+	font-family: 'Eczar', serif;
+	text-align: center;
 	/* border: 1px dashed navy; */
 	/* border-radius: 6px; */
 }
 body {
-	width: 60vw;
+	width: 80vw;
 	margin: 0px auto;
 	background-attachment: fixed;
 }
 title {
 	font-family: 'Arbutus Slab', serif;
 	color: maroon;
-	font-size: 40px;
+	font-size: 32px;
 	font-feature-settings: "smcp", "c2sc";
 	text-align: center;
+	margin-bottom: 70px;
 }
 
-p {
-	font-family: 'Noto Serif', serif;
+p.textverse {
+	font-family: 'Eczar', serif;
 	margin: 5px 0px;
+	min-height: 5em;
+	margin-bottom: 1em;
 }
 
 div.nav {
 	float:right;
 	font-size: .75em;
+	clear:both;
 }
 
 .textCol {
 	font-size: 14px;
+	max-width: 30%;
+	float:left;
+	margin-right: 1em;
 }
 
 .textHeader {
-	color:navy;
+	font-family: 'Arbutus Slab', serif;
+	color: maroon;
+	text-align: center;
 }
 
 .Chapter1 {

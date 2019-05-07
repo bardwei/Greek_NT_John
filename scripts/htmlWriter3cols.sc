@@ -147,7 +147,7 @@ def buildSite:Unit = {
 
 		/* Chapter Heading */
 		val bookHeader:String = s"""
-			<div style = "text-align: center; color: maroon; font-size: 2.5em"; class="bookHeader color1">
+			<div class="bookHeader color1">
 				<p class="textOnColor">Chapter ${bkNum}</p>
 			</div>
 		"""
@@ -165,15 +165,15 @@ def buildSite:Unit = {
 
 		val textVec:Vector[String] = {
 			Vector(cG, cE, cS).map( thisC => {
-					val cat:String = { 
+					val cat:String = {
 						"""<span class="textHeader">""" + tr.catalog.labelledVersions.filter(_.urn >= thisC.urns.head.dropPassage).head.label + "</span>"
 					}
 					val htmlDivWrapperOpen:String = """<div class="textCol">"""
 					val htmlDivWrapperClose:String = "</div>"
 					val passages:Vector[String] = thisC.nodes.map( n => {
-						s"""<p><span class="cite">${n.urn.passageComponent}</span>${n.text}</p>"""
+						s"""<p style= "textverse"><span class="cite">${n.urn.passageComponent}</span>${n.text}</p>"""
 					})
-					Vector(htmlDivWrapperOpen, cat) ++ passages ++ Vector(htmlDivWrapperClose)	
+					Vector(htmlDivWrapperOpen, cat) ++ passages ++ Vector(htmlDivWrapperClose)
 			}).flatten
 		}
 
